@@ -23,7 +23,7 @@ repository               : "academicpages/kareemhariri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof.png"
   name             : "Abdulkarim Hariri"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher | MIT"
