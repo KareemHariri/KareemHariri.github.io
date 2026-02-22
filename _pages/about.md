@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 redirect_from: 
   - 
   - 
