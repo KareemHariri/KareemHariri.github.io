@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "Bio"
 permalink: /
 author_profile: true
 ---
