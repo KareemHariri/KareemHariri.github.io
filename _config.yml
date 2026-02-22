@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Abdulkarim Hariri"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow | MIT"
+  bio              : "Postdoctoral Researcher | MIT"
   location         : "Cambridge, MA"
-  #employer         : "Red Brick University"
+  #employer        : "Red Brick University"
   uri              : #
-  hariri@mit.edu            : "hariri@mit.edu" 
+  hariri at mit.edu   : "hariri@mit.edu" 
 
   # Academic websites
   academia         : # URL
