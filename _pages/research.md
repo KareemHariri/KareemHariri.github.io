@@ -13,7 +13,7 @@ This page highlights selected directions. See also the [Publications](/publicati
 ### 1. Quantum-Enhanced Spectroscopy
 **Physical Review X 15, 041009  (2025), "Entangled dual-comb spectroscopy"**
 
-![Topological Frequency Combs]({{ '/images/Topo Comb.png' | relative_url }})
+![Topological Frequency Combs]({{ '/images/EntDual.pdf' | relative_url }})
 
 ### 2. On-chip Quantum Light
 **arXiv:2509.10445 (2025), "Wafer-Scale Squeezed-Light Chips"**
