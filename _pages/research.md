@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Hello"
 permalink: /research/
 author_profile: true
 ---
