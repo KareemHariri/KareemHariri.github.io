@@ -1,13 +1,12 @@
 ---
 layout: single
-title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 # Research
 
-This page highlights selected directions. See also the [Publications](/publications/) and [Portfolio](/portfolio/) pages.
+This page highlights selected directions. See also the [Publications](/publications/).
 
 ## Research Highlights
 
