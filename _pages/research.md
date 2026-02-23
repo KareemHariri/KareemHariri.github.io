@@ -11,31 +11,41 @@ This page highlights selected directions. See also the [Publications](/publicati
 ## Research Highlights
 
 ### 1. Quantum-Enhanced Spectroscopy
-**Physical Review X 15, 041009  (2025)**
+**Physical Review X 15, 041009  (2025), "Entangled dual-comb spectroscopy"**
 
 ![Topological Frequency Combs]({{ '/images/Topo Comb.png' | relative_url }})
 
-### 2. Nested frequency-phase matching for integrated nonlinear photonics
-**arXiv: 2506.15016 (2025)**
+### 2. On-chip Quantum Light
+**arXiv:2509.10445 (2025), "Wafer-Scale Squeezed-Light Chips"**
 
 ![Topological Harmonics]({{ '/images/Topo Harmonics.png' | relative_url }})
 
-### 3. Giant enhancement of exciton diffusion near an electronic Mott insulator
-**arXiv: 2409.18357 (2025)**
+### 3. Quantum Optical Gyroscope
+**In preparation**
 
 ![Exciton Diffusion]({{ '/images/Diffusion.png' | relative_url }})
 
-### 4. On-chip multi-timescale optical synchronization
-**Science Advances, 11 (37) (2025)**
+### 4. Quantum Radar in a 5G network
+**In review**
 
 ![Topological Modelocking]({{ '/images/Topo modelocking.png' | relative_url }})
 
-### 5. Spin-selective strong light-matter coupling in a 2D hole gas-microcavity system
-**Nature Photonics, 17 (912-916) (2023)**
+### 5. Quantum Radar
+**Physical Review A 112, 052613  (2025)**
+
+![Topological Modelocking]({{ '/images/Topo modelocking.png' | relative_url }})
+
+### 5. Quantum Measurement of Signal Amplitude and Phase
+**Physical Review A 100, 032119  (2019)**
+
+![Topological Modelocking]({{ '/images/Topo modelocking.png' | relative_url }})
+
+### 6. Quantum Atomic Clock
+**Ongoing Project**
 
 ![Spin-Selective Coupling]({{ '/images/Spin.png' | relative_url }})
 
-### 6. Optical pumping of electronic Landau levels with vortex light
+### 7. Optical pumping of electronic Landau levels with vortex light
 **Nature Photonics, 19 (156-161) (2025)**
 
 ![Optical Angular Momentum]({{ '/images/OAM.png' | relative_url }})
