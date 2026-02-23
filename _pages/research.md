@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /research/
+title: ""
 permalink: /research/
 author_profile: true
 ---
