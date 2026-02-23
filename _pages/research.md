@@ -10,8 +10,8 @@ This page highlights selected directions. See also the [Publications](/publicati
 
 ## Research Highlights
 
-### 1. Observation of topological frequency combs
-**Science 384 1356-1361 (2024)**
+### 1. Quantum-Enhanced Spectroscopy
+**Physical Review X 15, 041009  (2025)**
 
 ![Topological Frequency Combs]({{ '/images/Topo Comb.png' | relative_url }})
 
