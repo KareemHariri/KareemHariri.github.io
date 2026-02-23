@@ -1,9 +1,9 @@
 ---
 layout: single
 permalink: /research/
+permalink: /research/
 author_profile: true
 ---
-
 # Research
 
 This page highlights selected directions. See also the [Publications](/publications/).
