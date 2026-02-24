@@ -25,22 +25,22 @@ This page highlights selected directions. See also the [Publications](/publicati
 
 ![Quantum-enhanced Resonant Fiber-Optic gyroscope]<img src="{{ '/images/gyro.jpg' | relative_url }}" alt="gyro" style="width:1500px; height:auto;">
 
-### 4. Quantum Radar in a 5G network
+### 4. Quantum Radar for 6G Networks
 **In review**
 
-![Topological Modelocking]({{ '/images/Topo modelocking.png' | relative_url }})
+![Quantum vs Classical Radar]<img src="{{ '/images/5GQRadar.png' | relative_url }}" alt="gyro" style="width:1500px; height:auto;">
 
 ### 5. Quantum Radar
 **Physical Review A 112, 052613  (2025)**
 
-![Topological Modelocking]({{ '/images/Topo modelocking.png' | relative_url }})
+![Quantum Illumination]<img src="{{ '/images/QRadar.jpg' | relative_url }}" alt="gyro" style="width:1500px; height:auto;">
 
-### 5. Quantum Measurement of Signal Amplitude and Phase
+### 6. Quantum Measurement of Signal Amplitude and Phase
 **Physical Review A 100, 032119  (2019)**
 
-![Topological Modelocking]({{ '/images/Topo modelocking.png' | relative_url }})
+![Schemes for measuring quantum systems]<img src="{{ '/images/Weak.png' | relative_url }}" alt="gyro" style="width:1500px; height:auto;">
 
-### 6. Quantum Atomic Clock
+### 7. Quantum Atomic Clock
 **Ongoing Project**
 
 ![Spin-Selective Coupling]({{ '/images/Spin.png' | relative_url }})
