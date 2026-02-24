@@ -13,17 +13,17 @@ This page highlights selected directions. See also the [Publications](/publicati
 ### 1. Quantum-Enhanced Spectroscopy
 **Physical Review X 15, 041009  (2025), "Entangled dual-comb spectroscopy"**
 
-![Quantum Frequency Combs]<img src="{{ '/images/EntDual.png' | relative_url }}" alt="EntDual" style="width:2000px; height:auto;">
+![Quantum Frequency Combs]<img src="{{ '/images/EntDual.png' | relative_url }}" alt="EntDual" style="width:1500px; height:auto;">
 
 ### 2. On-chip Quantum Light
 **arXiv:2509.10445 (2025), "Wafer-Scale Squeezed-Light Chips"**
 
-![Topological Harmonics]({{ '/images/Topo Harmonics.png' | relative_url }})
+![Integrated Squeezed Light Source]<img src="{{ '/images/On-Chip1.jpg' | relative_url }}" alt="EntDual" style="width:1500px; height:auto;">
 
 ### 3. Quantum Optical Gyroscope
 **In preparation**
 
-![Exciton Diffusion]({{ '/images/Diffusion.png' | relative_url }})
+![Quantum-enhanced Resonant Fiber-Optic gyroscope]<img src="{{ '/images/gyro.jpg' | relative_url }}" alt="EntDual" style="width:1500px; height:auto;">
 
 ### 4. Quantum Radar in a 5G network
 **In review**
