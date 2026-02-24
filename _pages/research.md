@@ -18,12 +18,12 @@ This page highlights selected directions. See also the [Publications](/publicati
 ### 2. On-chip Quantum Light
 **arXiv:2509.10445 (2025), "Wafer-Scale Squeezed-Light Chips"**
 
-![Integrated Squeezed Light Source]<img src="{{ '/images/On-Chip1.jpg' | relative_url }}" alt="EntDual" style="width:1500px; height:auto;">
+![Integrated Squeezed Light Source]<img src="{{ '/images/On-Chip1.jpg' | relative_url }}" alt="On-Chip1" style="width:1500px; height:auto;">
 
 ### 3. Quantum Optical Gyroscope
 **In preparation**
 
-![Quantum-enhanced Resonant Fiber-Optic gyroscope]<img src="{{ '/images/gyro.jpg' | relative_url }}" alt="EntDual" style="width:1500px; height:auto;">
+![Quantum-enhanced Resonant Fiber-Optic gyroscope]<img src="{{ '/images/gyro.jpg' | relative_url }}" alt="gyro" style="width:1500px; height:auto;">
 
 ### 4. Quantum Radar in a 5G network
 **In review**
