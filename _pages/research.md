@@ -13,7 +13,7 @@ This page highlights selected directions. See also the [Publications](/publicati
 ### 1. Quantum-Enhanced Spectroscopy
 **Physical Review X 15, 041009  (2025), "Entangled dual-comb spectroscopy"**
 
-![Quantum Frequency Combs]<img src="{{ '/images/EntDual.png' | relative_url }}" alt="EntDual" style="width:500px; height:auto;">
+![Quantum Frequency Combs]<img src="{{ '/images/EntDual.png' | relative_url }}" alt="EntDual" style="width:1000px; height:auto;">
 
 ### 2. On-chip Quantum Light
 **arXiv:2509.10445 (2025), "Wafer-Scale Squeezed-Light Chips"**
@@ -37,7 +37,7 @@ b. **Physical Review A 112, 052613  (2025)**
 ### 5. Quantum Measurement of Signal Amplitude and Phase
 **Physical Review A 100, 032119  (2019)**
 
-![Schemes for measuring quantum systems]<img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:100px; height:auto;">
+![Schemes for measuring quantum systems]<img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:300px; height:auto;">
 
 ### 6. Quantum Atomic Clock
 **Ongoing Project**
