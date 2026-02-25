@@ -15,6 +15,7 @@ This page highlights selected directions. See also the [Publications](/publicati
 
 (Quantum and Classical Frequency Combs for Sensing)
 <img src="{{ '/images/EntDual.png' | relative_url }}" alt="EntDual" style="width:700px; height:auto;">
+
 Optical frequency combs have emerged as a cornerstone for a wide range of areas, including spectroscopy, ranging, optical clocks, time and frequency transfer, waveform synthesis, and communications. However, quantum-mechanical fluctuations of the optical carrier impose fundamental performance limits on the precision of classical optical frequency combs, particularly in their use for interferometry and spectroscopy. Entanglement, as a quintessential quantum resource, allows for surpassing the fundamental limits of classical systems. Here, we introduce entanglement into the realm of optical frequency combs, formulating entangled dual-comb spectroscopy (EDCS) that surmounts the fundamental limits of classical DCS. EDCS capitalizes on tailored entangled structures across the frequency comb, enabling simultaneous detection of all comb lines below the standard quantum limit of classical DCS. Applying EDCS in gas detection, we achieve a 2.6-dB enhancement in signal-to-noise ratio and a 1.7-fold reduction in integration time over classical DCS, rendering EDCS particularly suited for dynamic chemical and biological sensing, where fast, precise measurements subject to power constraints are required. EDCS opens a new avenue for exploiting quantum frequency combs, underscoring their prospects in a plethora of applications in precision metrology, spectroscopy, and timekeeping.
 
 ### 2. On-chip Quantum Light
@@ -53,6 +54,7 @@ Quantum illumination (QI) provides entanglement-enabled target detection enhance
 
 (Schemes for measuring quantum systems)
 <img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:400px; height:auto;">
+
 The weak value, the average result of a weak measurement, has proven useful for probing quantum and
 classical systems. Examples include amplifying small signals, investigating quantum paradoxes, and elucidating
 fundamental quantum phenomena such as geometric phase. A key characteristic of the weak value is that it
