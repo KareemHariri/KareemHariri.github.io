@@ -30,7 +30,7 @@ Squeezed-light generation in photonic integrated circuits (PICs) is essential fo
 **In preparation**
 
 (Quantum-enhanced Resonant Fiber-Optic gyroscope)
-<img src="{{ '/images/gyro.jpg' | relative_url }}" alt="gyro" style="width:1000px; height:auto;">
+<img src="{{ '/images/gyro.jpg' | relative_url }}" alt="gyro" style="width:700px; height:auto;">
 
 Resonant fiber optic gyroscopes (RFOGs) are key enablers of compact and precise rotation sensing across aerospace, navigation, and fundamental physics. However, quantum fluctuations intrinsic to coherent light impose a fundamental noise floor, limiting the performance of classical RFOGs, especially in high-finesse configurations where long-term stability is essential. Squeezed states of light, as a canonical quantum resource, enable the suppression of these fluctuations and offer a route toward surpassing classical sensitivity limits.
 Here, we introduce amplitude-squeezed light into the domain of resonant fiber optic gyroscopes, realizing a quantum-enhanced RFOG architecture compatible with conventional power levels and device components. By injecting a bright amplitude-squeezed beam into the sensing mode of a fiber ring resonator, we suppress the contribution of shot noise. This quantum-enhanced configuration yields a 2~dB reduction in detector noise floor, as confirmed by Allan deviation analysis.
@@ -40,7 +40,7 @@ Operating under practical conditions, our system demonstrates the feasibility of
 a. **In review**
 
 (Quantum vs Classical Radar)
-<img src="{{ '/images/5GQRadar.png' | relative_url }}" alt="5GRadar" style="width:1000px; height:auto;">
+<img src="{{ '/images/5GQRadar.png' | relative_url }}" alt="5GRadar" style="width:700px; height:auto;">
 
 Integrated sensing and communication (ISAC) is emerging as a key enabler for spectrum-efficient and hardwareconverged
 wireless networks. However, classical radar systems within ISAC architectures face fundamental limitations under low signal power and high-noise conditions. This paper proposes a novel framework that embeds quantum illumination radar into a base station to simultaneously support full-duplex classical communication and quantum-enhanced target detection. The resulting integrated quantum sensing and classical communication (IQSCC) system is optimized via a sum-rate maximization formulation subject to radar sensing constraints. The non-convex joint optimization of transmit power and beamforming vectors is tackled using the successive convex approximation technique. Furthermore, we derive performance bounds for classical and quantum radar protocols under the statistical detection theory, highlighting the quantum advantage in low signal-to-interferenceplus-noise ratio regimes. Simulation results demonstrate that the proposed IQSCC system achieves a higher communication throughput than the conventional ISAC baseline while satisfying the sensing requirement.
@@ -48,7 +48,7 @@ wireless networks. However, classical radar systems within ISAC architectures fa
 b. **Physical Review A 112, 052613  (2025)**
 
 (Quantum Illumination)
-<img src="{{ '/images/QRadar.jpg' | relative_url }}" alt="QRadar" style="width:1000px; height:auto;">
+<img src="{{ '/images/QRadar.jpg' | relative_url }}" alt="QRadar" style="width:700px; height:auto;">
 
 Quantum illumination (QI) provides entanglement-enabled target detection enhancement, despite operating in an entanglement-breaking environment. Existing experimental studies of QI have utilized a Bayesian approach, assuming that the target is equally likely to be present or absent before detection, to demonstrate an advantage over classical target detection. However, such a premise breaks down in practical operational scenarios in which the prior probability is unknown, thereby hindering QI's applicability to real-world target detection scenarios. In this work, we experimentally implement the phase-conjugate receiver architecture previously envisioned for quantum illumination based target detection, and adopt the Neyman-Pearson criterion in lieu of the error probability for equally likely target absence or presence as our figure of merit for QI. We experimentally demonstrate an unconditional quantum advantage over the optimal classical-illumination protocol as benchmarked by the receiver operating characteristic, which examines detection probability versus false-alarm probability without resorting to known prior probabilities. Our work represents a critical advancement in adapting quantum-enhanced sensing to practical operational settings.
 
@@ -57,7 +57,7 @@ Quantum illumination (QI) provides entanglement-enabled target detection enhance
 
 (Schemes for measuring quantum systems)
 
-<img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:400px; height:auto;">
+<img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:600px; height:auto;">
 
 The weak value, the average result of a weak measurement, has proven useful for probing quantum and
 classical systems. Examples include amplifying small signals, investigating quantum paradoxes, and elucidating
