@@ -43,7 +43,7 @@ b. **Physical Review A 112, 052613  (2025)**
 **Physical Review A 100, 032119  (2019)**
 
 (Schemes for measuring quantum systems)
-<img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:300px; height:auto;">
+<img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:600px; height:auto;">
 
 ### 6. Quantum Atomic Clock
 **Ongoing Project**
