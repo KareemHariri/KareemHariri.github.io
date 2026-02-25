@@ -31,18 +31,18 @@ This page highlights selected directions. See also the [Publications](/publicati
 ### 4. Quantum Radar
 a. **In review**
 
-![Quantum vs Classical Radar]
+(Quantum vs Classical Radar)
 <img src="{{ '/images/5GQRadar.png' | relative_url }}" alt="5GRadar" style="width:1000px; height:auto;">
 
 b. **Physical Review A 112, 052613  (2025)**
 
-![Quantum Illumination]
+(Quantum Illumination)
 <img src="{{ '/images/QRadar.jpg' | relative_url }}" alt="QRadar" style="width:1000px; height:auto;">
 
 ### 5. Quantum Measurement of Signal Amplitude and Phase
 **Physical Review A 100, 032119  (2019)**
 
-![Schemes for measuring quantum systems]
+(Schemes for measuring quantum systems)
 <img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:300px; height:auto;">
 
 ### 6. Quantum Atomic Clock
