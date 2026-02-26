@@ -17,7 +17,6 @@ My colleagues and friends who supported me throughout my PhD journey"
 
 
 ### APS March Meeting conference (2025)
-My colleagues and friends who supported me throughout my PhD journey"
 
 <img src="{{ '/images/APS2025.jpg' | relative_url }}" alt="APS2025" style="width:700px; height:auto;">
 
@@ -25,3 +24,19 @@ My colleagues and friends who supported me throughout my PhD journey"
 ### CLEO conference (2024)
 
 <img src="{{ '/images/CLEO2024.jpg' | relative_url }}" alt="CLEO2024" style="width:700px; height:auto;">
+
+
+### Midwest Quantum Collaboratory (2025)
+
+<img src="{{ '/images/MQC.jpg' | relative_url }}" alt="MQC" style="width:700px; height:auto;">
+
+
+### Information in a Photon CLass (2022)
+My colleagues and friends who supported me throughout my PhD journey"
+
+<img src="{{ '/images/Saikat.jpg' | relative_url }}" alt="Saikat" style="width:700px; height:auto;">
+
+
+### IDQ (2020)
+
+<img src="{{ '/images/IDQwinterschool.jpg' | relative_url }}" alt="IDQwinterschool" style="width:700px; height:auto;">
