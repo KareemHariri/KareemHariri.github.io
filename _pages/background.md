@@ -26,4 +26,14 @@ Postdoctoral Researcher , MIT, Present
 
 See my [Publications page](/publications/) for a complete list.
 
+## Mentoring
+
+- 2025 – Mentored a Ph.D. student on the characterization of an integrated quantum light source.
+- 2024 – Mentored a Ph.D. student on the development of a tabletop quantum light source setup.
+- 2023 – Mentored a Ph.D. student on the development of a quantum radar setup, resulting in the manuscript Entanglement-Enhanced Neyman–Pearson Target Detection.
+
+## Skills
+- Integrated Photonics system design: Lumerical
+- Optical Setups: Free-space and fiber-based setups, lasers, resonators, nonlinear cavities, optical interferometers, modulation techniques, integrated photonics testing platforms.
+- Control Systems and Electrical Testing: PID controllers, lock-in amplifiers, electrical/optical spectrum analyzers, Oscilloscopes.
 
