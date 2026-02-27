@@ -12,7 +12,7 @@ author_profile: true
 
 ## Current Position
 
-Research Scientist, MIT, Present
+Postdoctoral Researcher , MIT, Present
 
 ## Research Experience
 
