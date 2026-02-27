@@ -1,7 +1,9 @@
 ---
 title: "Background"
 permalink: /background/
-author_profile: true
+author_profile: false
+sidebar: false
+classes: wide
 ---
 
 ## Education
