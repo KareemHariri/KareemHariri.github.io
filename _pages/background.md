@@ -1,5 +1,5 @@
 ---
-title: "background"
+title: "Background"
 permalink: /background/
 author_profile: true
 ---
