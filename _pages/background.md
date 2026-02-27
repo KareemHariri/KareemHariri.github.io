@@ -26,15 +26,4 @@ Research Scientist, MIT, Present
 
 See my [Publications page](/publications/) for a complete list.
 
-## Talks
 
-See my [Talks page](/talks/) for a complete list.
-
-## Teaching
-
-See my [Teaching page](/teaching/) for a complete list.
-
-## Awards and Recognition
-
-- **UK Rank Prize Award** (2021)
-- **University Prize Scholarship Fellow** (2017–2021)
