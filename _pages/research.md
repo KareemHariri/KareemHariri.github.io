@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 This page highlights selected directions. See also the [Publications](/publications/).
