@@ -9,10 +9,10 @@ Hello! I’m Abdulkarim Hariri, a postdoctoral researcher at the Massachusetts I
 
 Along the way, I’ve been fortunate to learn from many inspiring scientists, including:
 
-	- **University of Michigan:** Herbert Winful, Steven Cundiff, Alex Kuzmich, Theodore Norris, Di Liang, and Xudong (Sherman) Fan
-	- **University of Arizona:** Ewan Wright and Saikat Guha
-	- **University of Ottawa:** Jeff Lundeen
-	- **King Abdullah University of Science and Technology:** Aurelien Manchon
-	- **King Fahd University of Petroleum and Minerals:** Fatah Khiari, Zain Hassan Yamani, Mohammad A. Gondal, Mohammad F. Al-Kuhaili, Abdelkrim Mekki, Watheq Ahmed Al-Basheer, and Saleem Rao
+**University of Michigan:** Herbert Winful, Steven Cundiff, Alex Kuzmich, Theodore Norris, Di Liang, and Xudong (Sherman) Fan
+**University of Arizona:** Ewan Wright and Saikat Guha
+**University of Ottawa:** Jeff Lundeen
+**King Abdullah University of Science and Technology:** Aurelien Manchon
+**King Fahd University of Petroleum and Minerals:** Fatah Khiari, Zain Hassan Yamani, Mohammad A. Gondal, Mohammad F. Al-Kuhaili, Abdelkrim Mekki, Watheq Ahmed Al-Basheer, and Saleem Rao
 
 I’m grateful to all of them for helping me develop my scientific intuition and capabilities.
