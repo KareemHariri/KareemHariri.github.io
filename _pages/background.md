@@ -7,7 +7,7 @@ author_profile: true
 ## Education
 
 - **Ph.D.** in Experimental Quantum Optics, University of Michigan, US, 2025
-- **M.S.** in Materials Science and Engineering, University of Michigan, US, 2020
+- **M.S.** in Materials Science and Engineering, King Abdullah University of Science and Technology, Saudi Arabia, 2020
 - **B.S.** in Physics, Minor in Mathematics, King Fahd University of Petroleum and Minerals, Saudi Arabia, 2018
 
 ## Current Position
