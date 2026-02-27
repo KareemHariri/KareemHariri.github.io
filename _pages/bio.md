@@ -9,7 +9,7 @@ Hello! I’m Abdulkarim Hariri, a postdoctoral researcher at the Massachusetts I
 
 Along my academic journey, I’ve been fortunate to learn from many inspiring scientists, including:
 
-**University of Michigan:** Herbert Winful, Steven Cundiff, Alex Kuzmich, Theodore Norris, Di Liang, and Xudong (Sherman) Fan
+**University of Michigan:** Herbert Winful (pioneering contributions to nonlinear optics/photonics; a pianist and a wonderful human being), Steven Cundiff (a leading figure in ultrafast optics and optical frequency combs), Alex Kuzmich (a prominent researcher in quantum optics/quantum information), Theodore Norris (an exceptional teacher, among the best instructors I’ve ever had), Di Liang, and Xudong (Sherman) Fan
 
 **University of Arizona:** Ewan Wright and Saikat Guha
 
