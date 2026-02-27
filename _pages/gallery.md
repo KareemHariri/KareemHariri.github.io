@@ -26,17 +26,17 @@ My colleagues and friends who supported me throughout my PhD journey"
 <img src="{{ '/images/CLEO2024.jpg' | relative_url }}" alt="CLEO2024" style="width:700px; height:auto;">
 
 
-### Midwest Quantum Collaboratory (2025)
+### Midwest Quantum Collaboratory (2023)
 
 <img src="{{ '/images/MQC.jpg' | relative_url }}" alt="MQC" style="width:700px; height:auto;">
 
 
-### Information in a Photon CLass (2022)
+### Information in a Photon CLass (2022, tought by Saikat Guha)
 My colleagues and friends who supported me throughout my PhD journey"
 
 <img src="{{ '/images/Saikat.jpg' | relative_url }}" alt="Saikat" style="width:700px; height:auto;">
 
 
-### IDQ (2020)
+### IDQ's winter school (2020)
 
 <img src="{{ '/images/IDQwinterschool.jpg' | relative_url }}" alt="IDQwinterschool" style="width:700px; height:auto;">
