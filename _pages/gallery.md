@@ -2,7 +2,9 @@
 layout: archive
 title: "Gallery"
 permalink: /gallery/
-author_profile: true
+author_profile: false
+sidebar: false
+classes: wide
 ---
 
 ### PhD Defense (2025)
