@@ -6,7 +6,7 @@ author_profile: false
 sidebar: false
 classes: wide
 ---
-## Journal Publications
+# Journal Publications
 {% for post in site.publications reversed %}
   <div class="list__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
@@ -25,4 +25,4 @@ classes: wide
   </div>
 {% endfor %}
 
-### Conference Publications
+# Conference Publications
