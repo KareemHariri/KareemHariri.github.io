@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 
-Hello! I’m Abdulkarim Hariri, a postdoctoral researcher at the Massachusetts Institute of Technology (MIT), working with Prof. Vladan Vuletić’s [Experimental Atomic Physics Group](https://eapg.mit.edu/). I earned my PhD in Electrical Engineering and Computer Science from the University of Michigan under the supervision of Prof. Peter Seiler. My doctoral research focused on quantum optics and quantum-enhanced metrology, spanning integrated and free-space squeezed-light sources, integrated photonics, dual-comb spectroscopy, and inertial sensing.
+Hello! I’m Abdulkarim Hariri, a postdoctoral researcher at the Massachusetts Institute of Technology (MIT), working with Prof. Vladan Vuletić’s [Experimental Atomic Physics Group](https://eapg.mit.edu/). I earned my PhD in Electrical Engineering and Computer Science from the [University of Michigan](https://umich.edu/) under the supervision of Prof. [Peter Seiler](https://seiler.engin.umich.edu/). My doctoral research focused on quantum optics and quantum-enhanced metrology, spanning integrated and free-space squeezed-light sources, integrated photonics, dual-comb spectroscopy, and inertial sensing.
 
 Along my academic journey, I’ve been fortunate to learn from many inspiring scientists, including:
 
-**University of Michigan:** Herbert Winful (pioneering contributions to nonlinear optics/photonics; a pianist and a wonderful human being), Steven Cundiff (a leading figure in ultrafast optics and optical frequency combs), Alex Kuzmich (a prominent researcher in quantum optics/quantum information), Theodore Norris (an exceptional teacher, among the best instructors I’ve ever had), Di Liang, and Xudong (Sherman) Fan
+**University of Michigan:** [Herbert Winful](https://winful.engin.umich.edu/) (pioneering contributions to nonlinear optics/photonics; a pianist and a wonderful human being), [Steven Cundiff](https://lsa.umich.edu/physics/people/faculty/cundiff.html) (a leading figure in ultrafast optics and optical frequency combs), [Alex Kuzmich](https://lsa.umich.edu/physics/people/faculty/akuzmich.html) (a prominent researcher in quantum optics/quantum information), [Theodore Norris](https://eecs.engin.umich.edu/people/norris-theodore-b/) (an exceptional teacher, among the best instructors I’ve ever had), [Di Liang](https://lsa.umich.edu/appliedphysics/people/faculty/liangdi.html), and Xudong (Sherman) Fan
 
 **University of Arizona:** Ewan Wright and Saikat Guha
 
