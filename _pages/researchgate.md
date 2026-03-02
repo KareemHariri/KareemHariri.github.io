@@ -4,7 +4,7 @@ title: "Research gate"
 permalink: /researchgate/
 author_profile: false
 sidebar: false
-classes: wide
+classes: full-width
 ---
 ## Research Areas
 
