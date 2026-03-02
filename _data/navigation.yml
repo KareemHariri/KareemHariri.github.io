@@ -14,6 +14,10 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Research Gate"
+    url: /researchgate/
+
+
   - title: "Publications"
     url: /publications/    
 
