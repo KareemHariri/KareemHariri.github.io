@@ -25,7 +25,7 @@ My colleagues and friends who supported me throughout my PhD journey"
 
 ## CLEO conference (2024)
 
-<img src="{{ '/images/CLEO2024.jpg' | relative_url }}" alt="CLEO2024" style="width:700px; height:auto; margin-left:250px;">
+<img src="{{ '/images/CLEO2024.jpg' | relative_url }}" alt="CLEO2024" style="width:700px; height:auto; margin-left:275px;">
 
 
 ## Midwest Quantum Collaboratory (2023)
