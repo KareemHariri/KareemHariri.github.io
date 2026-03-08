@@ -13,7 +13,7 @@
 
   @include breakpoint($large) {
     @include span(12 of 12);
-    margin-left: 4rem;   /* trial shift */
+    margin-left: 40rem;   /* trial shift */
     margin-right: 0;
   }
 
