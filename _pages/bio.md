@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-I’m Abdulkarim Hariri, a postdoctoral researcher at the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), working with professor Vladan Vuletić’s [Experimental Atomic Physics Group](https://eapg.mit.edu/). I earned my PhD in Electrical Engineering and Computer Science from the [University of Michigan](https://umich.edu/) under the supervision of professor [Peter Seiler](https://seiler.engin.umich.edu/). My doctoral research focused on quantum optics and quantum-enhanced metrology, spanning integrated and free-space squeezed-light sources, integrated photonics, dual-comb spectroscopy, and inertial sensing.
+I’m Abdulkarim Hariri, a postdoctoral researcher at the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), working with professor [Vladan Vuletic](https://physics.mit.edu/faculty/vladan-vuletic/) as part of the [Experimental Atomic Physics Group](https://eapg.mit.edu/). I earned my PhD in Electrical Engineering and Computer Science from the [University of Michigan](https://umich.edu/) under the supervision of professor [Peter Seiler](https://seiler.engin.umich.edu/). My doctoral research focused on quantum optics and quantum-enhanced metrology, spanning integrated and free-space squeezed-light sources, integrated photonics, dual-comb spectroscopy, and inertial sensing.
 
 ## Mentors and collaborators
 
