@@ -19,13 +19,13 @@ Postdoctoral Researcher, MIT, Present
 
 ## Research Experience
 
-<img src="{{ '/images/MITlogo.png' | relative_url }}" alt="MIT" style="width:10px; height:auto;"> **MIT (Present):** Quantum optical atomic clock
+<img src="{{ '/images/MITlogo.png' | relative_url }}" alt="MIT" style="width:60px; height:auto;"> **MIT (Present):** Quantum optical atomic clock
 
-<img src="{{ '/images/umichlogo.png' | relative_url }}" alt="umich" style="width:20px; height:auto;"> **University of Michigan (2021–2025):** Quantum-enhanced sensing; quantum optical frequency combs; integrated photonics; fiber-optic gyroscopes
+<img src="{{ '/images/umichlogo.png' | relative_url }}" alt="umich" style="width:80px; height:auto;"> **University of Michigan (2021–2025):** Quantum-enhanced sensing; quantum optical frequency combs; integrated photonics; fiber-optic gyroscopes
 
-<img src="{{ '/images/kaustlogo.png' | relative_url }}" alt="kaust" style="width:30px; height:auto;"> **King Abdullah University of Science and Technology (2017–2020):** Condensed Matter Theory, Spintronics, Topological Materials
+<img src="{{ '/images/KAUSTlogo.png' | relative_url }}" alt="kaust" style="width:100px; height:auto;"> **King Abdullah University of Science and Technology (2017–2020):** Condensed Matter Theory, Spintronics, Topological Materials
 
-<img src="{{ '/images/ottawalogo.png' | relative_url }}" alt="ottawa" style="width:40px; height:auto;"> **University of Ottawa (2017):** Experimental Quantum Photonics
+<img src="{{ '/images/ottawalogo.png' | relative_url }}" alt="ottawa" style="width:120px; height:auto;"> **University of Ottawa (2017):** Experimental Quantum Photonics
 
 
 ## Publications
