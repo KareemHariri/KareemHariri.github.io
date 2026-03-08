@@ -3,7 +3,7 @@ title: "Background"
 permalink: /background/
 author_profile: false
 sidebar: false
-classes: wide-page
+classes: wide
 ---
 
 ## Education
