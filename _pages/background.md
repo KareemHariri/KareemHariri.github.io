@@ -21,7 +21,7 @@ Postdoctoral Researcher, MIT, Present
 
 <img src="{{ '/images/MITlogo.png' | relative_url }}" alt="MIT" style="width:150px; height:auto;"> **MIT (Present):** Quantum optical atomic clock
 
-<img src="{{ '/images/umichlogo.png' | relative_url }}" alt="umich" style="width:150px; height:auto;"> **University of Michigan (2021–2025):** Quantum-enhanced sensing; quantum optical frequency combs; integrated photonics; fiber-optic gyroscopes
+<img src="{{ '/images/umichlogo.png' | relative_url }}" alt="umich" style="width:150px; height:auto;"> **University of Michigan (2021–2025):** Quantum sensing; Quantum optical frequency combs; integrated photonics; Optical gyroscopes
 
 <img src="{{ '/images/KAUSTlogo.png' | relative_url }}" alt="kaust" style="width:150px; height:auto;"> **King Abdullah University of Science and Technology (2017–2020):** Condensed Matter Theory, Spintronics, Topological Materials
 
