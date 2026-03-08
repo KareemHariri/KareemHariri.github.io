@@ -9,9 +9,9 @@ classes: wide-page
 
 ## Education
 
-- **Ph.D.** in Experimental Quantum Optics, University of Michigan, US, 2025
-- **M.S.** in Materials Science and Engineering, King Abdullah University of Science and Technology, Saudi Arabia, 2020
-- **B.S.** in Physics, Minor in Mathematics, King Fahd University of Petroleum and Minerals, Saudi Arabia, 2018
+<img src="{{ '/umich logo.png' | relative_url }}" alt="MIT" style="width:10px; height:auto;"> - **Ph.D.** in Experimental Quantum Optics, University of Michigan, US, 2025
+<img src="{{ '/kaust logo.png' | relative_url }}" alt="kaust" style="width:20px; height:auto;"> - **M.S.** in Materials Science and Engineering, King Abdullah University of Science and Technology, Saudi Arabia, 2020
+<img src="{{ '/KFUPM logo.png' | relative_url }}" alt="kfupm" style="width:30px; height:auto;"> - **B.S.** in Physics, Minor in Mathematics, King Fahd University of Petroleum and Minerals, Saudi Arabia, 2018
 
 ## Current Position
 
