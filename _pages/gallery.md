@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Gallery"
 permalink: /gallery/
 author_profile: false
