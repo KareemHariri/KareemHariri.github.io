@@ -8,7 +8,7 @@ classes: wide
 ---
 
 ## PhD Defense (2025)
-My colleagues and friends who supported me throughout my PhD journey"
+My colleagues and friends who supported me throughout my PhD journey
 
 <img src="{{ '/images/PhDDefense.jpg' | relative_url }}" alt="PhDDefense" style="width:1100px; height:auto; margin-left:65px;">
 
