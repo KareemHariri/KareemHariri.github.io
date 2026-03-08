@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 sidebar: false
-classes: wide-page
+class: wide-page
 ---
 
 This page highlights selected directions. See also the [Publications](/publications/).
