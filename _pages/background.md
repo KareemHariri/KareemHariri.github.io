@@ -21,7 +21,7 @@ Postdoctoral Researcher, MIT, Present
 
 - **MIT (Present):** Quantum optical atomic clock
 - **University of Michigan (2021–2025):** Quantum-enhanced sensing; quantum optical frequency combs; integrated photonics; fiber-optic gyroscopes.
-- **King Abdullah University of Science and Technology (2017–2021):** Condensed Matter Theory, Spintronics, Topological Materials
+- **King Abdullah University of Science and Technology (2017–2020):** Condensed Matter Theory, Spintronics, Topological Materials
 - **University of Ottawa (2017):** Experimental Quantum Photonics
 
 
