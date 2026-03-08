@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-full
 title: "Background"
 permalink: /background/
 author_profile: false
