@@ -10,7 +10,19 @@
     margin-left: 2rem;
     margin-right: 0;
   }
+.archive {           // <-- DUPLICATE BLOCK STARTS HERE
+  margin-bottom: 2em;
 
+  @include breakpoint($medium) {
+    @include span(12 of 12);
+  }
+
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(0 of 12);  // <-- THIS IS CAUSING THE LEFT MARGIN!
+  }
+}
+   
   @include breakpoint($large) {
     @include span(12 of 12);
     margin-left: 40rem;   /* trial shift */
