@@ -41,6 +41,7 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
 /* Full-width pages without reserved sidebar space */
 .wide-page .page {
   @media screen and (min-width: 1024px) {
@@ -53,7 +54,7 @@
 }
 
 .wide-page .page__inner-wrap {
-  max-width: 1200px !important; /* change this per page as desired */
+  max-width: 1200px !important;
   width: 100% !important;
 }
 
@@ -67,12 +68,13 @@
   width: 100% !important;
 }
 
+/* YOUR NEW CSS - Add after the imports and existing rules */
 @media (min-width: 64em) {
-  .no-left-gap .archive {
+  .archive-full .page {
     width: 100% !important;
-    max-width: 1200px !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    float: none !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
   }
 }
