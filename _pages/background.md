@@ -9,9 +9,9 @@ classes: wide-page
 
 ## Education
 
-- **Ph.D.** in Experimental Quantum Optics, University of Michigan, US, 2025  
-- **M.S.** in Materials Science and Engineering, King Abdullah University of Science and Technology, Saudi Arabia, 2020
-- **B.S.** in Physics, Minor in Mathematics, King Fahd University of Petroleum and Minerals, Saudi Arabia, 2018
+- **Ph.D.** in Experimental Quantum Optics, University of Michigan, US, 2025.  
+- **M.S.** in Materials Science and Engineering, King Abdullah University of Science and Technology, Saudi Arabia, 2020.
+- **B.S.** in Physics, Minor in Mathematics, King Fahd University of Petroleum and Minerals, Saudi Arabia, 2018.
 
 ## Current Position
 
@@ -30,7 +30,7 @@ Postdoctoral Researcher, MIT, Present
 
 ## Publications
 
-See my [Publications page](/publications/) for a complete list.
+See my [Publications page](/publications/) for a complete list
 
 ## Mentoring
 
@@ -39,7 +39,7 @@ See my [Publications page](/publications/) for a complete list.
 - 2023 – Mentored a Ph.D. student on the development of a quantum radar setup, resulting in the manuscript Entanglement-Enhanced Neyman–Pearson Target Detection.
 
 ## Skills
-- Integrated Photonics system design: Lumerical
+- Integrated Photonics system design: Lumerical.
 - Optical Setups: Free-space and fiber-based setups, lasers, resonators, nonlinear cavities, optical interferometers, modulation techniques, integrated photonics testing platforms.
 - Control Systems and Electrical Testing: PID controllers, lock-in amplifiers, electrical/optical spectrum analyzers, Oscilloscopes.
 
