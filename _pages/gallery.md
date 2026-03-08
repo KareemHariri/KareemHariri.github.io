@@ -10,17 +10,17 @@ classes: wide
 ### PhD Defense (2025)
 My colleagues and friends who supported me throughout my PhD journey"
 
-   <img src="{{ '/images/PhDDefense.jpg' | relative_url }}" alt="PhDDefense" style="width:1100px; height:auto;">
+<img src="{{ '/images/PhDDefense.jpg' | relative_url }}" alt="PhDDefense" style="width:1100px; height:auto;">
 
 
 ### CLEO conference (2025)
 
-     <img src="{{ '/images/CLEO2025.jpg' | relative_url }}" alt="CLEO2025" style="width:1100px; height:auto;">
+<img src="{{ '/images/CLEO2025.jpg' | relative_url }}" alt="CLEO2025" style="width:1100px; height:auto;">
 
 
 ### APS March Meeting conference (2025)
 
-          <img src="{{ '/images/APS2025.jpg' | relative_url }}" alt="APS2025" style="width:1100px; height:auto;">
+<img src="{{ '/images/APS2025.jpg' | relative_url }}" alt="APS2025" style="width:1100px; height:auto;">
 
 
 ### CLEO conference (2024)
@@ -41,4 +41,4 @@ My colleagues and friends who supported me throughout my PhD journey"
 
 ### IDQ's winter school (2020)
 
-<img src="{{ '/images/IDQwinterschool.jpg' | relative_url }}" alt="IDQwinterschool" style="width:700px; height:auto;">
+<img src="{{ '/images/IDQwinterschool.jpg' | relative_url }}" alt="IDQwinterschool" style="width:1100px; height:auto;">
