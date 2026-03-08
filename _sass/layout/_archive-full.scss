@@ -9,8 +9,17 @@
     @include span(12 of 12);
   }
 
-@include breakpoint($large) {
-  @include span(12 of 12);
+.archive {
+  margin-bottom: 2em;
+
+  @include breakpoint($medium) {
+    @include span(12 of 12);
+  }
+
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(0 of 12);
+  }
 }
 
   a {
