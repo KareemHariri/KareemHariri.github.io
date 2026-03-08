@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: archive-full
 title: "Journal Publications"
 permalink: /publications/
 author_profile: false
 sidebar: false
-classes: wide
+classes: wide-page
 ---
 {% for post in site.publications reversed %}
   <div class="list__item">
