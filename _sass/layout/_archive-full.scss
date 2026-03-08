@@ -9,18 +9,9 @@
     @include span(12 of 12);
   }
 
-.archive {
-  margin-bottom: 2em;
-
-  @include breakpoint($medium) {
-    @include span(12 of 12);
-  }
-
   @include breakpoint($large) {
     @include span(12 of 12);
-    @include prefix(0 of 12);
   }
-}
 
   a {
     text-decoration: underline;
@@ -46,6 +37,8 @@
     margin-top: 0.5em;
   }
 }
+
+/* ... rest of your styles ... */
 
 .archive__item-title {
   margin-bottom: 0.25em;
