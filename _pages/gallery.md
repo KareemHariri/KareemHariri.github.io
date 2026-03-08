@@ -1,5 +1,5 @@
 ---
-layout: single-full
+layout: archive-full
 title: "Gallery"
 permalink: /gallery/
 author_profile: false
