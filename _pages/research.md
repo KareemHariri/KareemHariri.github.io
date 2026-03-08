@@ -3,7 +3,7 @@ layout: archive-full
 title: "Research"
 permalink: /research/
 author_profile: false
-sidebar: true
+sidebar: false
 classes: wide-page
 ---
 
