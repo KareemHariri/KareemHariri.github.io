@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: archive-full
 title: "Research"
 permalink: /research/
 author_profile: false
 sidebar: true
-classes: wide
+classes: wide-page
 ---
 
 This page highlights selected directions. See also the [Publications](/publications/).
