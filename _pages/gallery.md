@@ -13,17 +13,17 @@ My colleagues and friends who supported me throughout my PhD journey"
 <img src="{{ '/images/PhDDefense.jpg' | relative_url }}" alt="PhDDefense" style="width:1100px; height:auto; margin-left:65px;">
 
 
-## CLEO conference (2025)
+## CLEO Conference (2025)
 
 <img src="{{ '/images/CLEO2025.jpg' | relative_url }}" alt="CLEO2025" style="width:1100px; height:auto; margin-left:65px;">
 
 
-## APS March Meeting conference (2025)
+## APS March Meeting Conference (2025)
 
 <img src="{{ '/images/APS2025.jpg' | relative_url }}" alt="APS2025" style="width:1100px; height:auto; margin-left:65px;">
 
 
-## CLEO conference (2024)
+## CLEO Conference (2024)
 
 <img src="{{ '/images/CLEO2024.jpg' | relative_url }}" alt="CLEO2024" style="width:700px; height:auto; margin-left:275px;">
 
@@ -33,11 +33,11 @@ My colleagues and friends who supported me throughout my PhD journey"
 <img src="{{ '/images/MQC.jpg' | relative_url }}" alt="MQC" style="width:1100px; height:auto; margin-left:65px;">
 
 
-## Information in a Photon CLass (2022, tought by Saikat Guha)
+## Information in a Photon Class (2022, tought by Saikat Guha)
 
 <img src="{{ '/images/Saikat.jpg' | relative_url }}" alt="Saikat" style="width:1100px; height:auto; margin-left:65px;">
 
 
-## IDQ's winter school (2020)
+## IDQ's Winter School (2020)
 
 <img src="{{ '/images/IDQwinterschool.jpg' | relative_url }}" alt="IDQwinterschool" style="width:1100px; height:auto; margin-left:65px;">
