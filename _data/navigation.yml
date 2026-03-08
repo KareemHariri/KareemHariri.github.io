@@ -22,3 +22,6 @@ main:
     
   - title: "Background"
     url: /background/  
+
+  - title: "Blog"
+    url: /blog/  
