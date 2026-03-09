@@ -9,7 +9,7 @@ classes: wide-page
 
 ## In preperation
 
-/* ## Thoery vs Techngloy */
+{% Thoery vs Techngloy %}
 
-/* ## How to Fail in Acadamia */
+{% How to Fail in Acadamia %}
 
