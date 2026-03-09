@@ -10,5 +10,5 @@ classes: wide-page
 ## Theory vs Technology 
 
 
-## How to Fail in Acadamia
+(% ## How to Fail in Acadamia %)
 
