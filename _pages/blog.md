@@ -7,8 +7,9 @@ sidebar: false
 classes: wide-page
 ---
 
-## Theory vs Technology 
+## In preperation
 
+% ## Thoery vs Techngloy %
 
 % ## How to Fail in Acadamia %
 
