@@ -21,7 +21,7 @@ classes: wide-page
 — *David Deutsch*
 
 “Unthinking respect for authority is the greatest enemy of truth” 
-— *Kip s. Thorne*
+— *Kip Thorne*
 
 “The world keeps happening, in accordance with its rules; it's up to us to make sense of it and give it value.” 
 — *Sean Carroll*
