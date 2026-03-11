@@ -6,6 +6,95 @@ author_profile: false
 sidebar: false
 classes: wide
 ---
+<style>
+  .gallery-wrap {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .gallery-center {
+    text-align: center;
+  }
+
+  .gallery-row {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    margin: 60px 0;
+  }
+
+  .gallery-text {
+    flex: 1;
+    text-align: left;
+  }
+
+  .gallery-thumb {
+    border-radius: 6px;
+    cursor: zoom-in;
+    display: block;
+    height: auto;
+  }
+
+  .gallery-thumb.small {
+    width: 220px;
+  }
+
+  .gallery-thumb.medium {
+    width: 260px;
+  }
+
+  .gallery-thumb.large {
+    width: 320px;
+  }
+
+  .gallery-thumb.poster {
+    width: 420px;
+  }
+
+  .lightbox {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.88);
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+  }
+
+  .lightbox.open {
+    display: flex;
+  }
+
+  .lightbox img {
+    max-width: 92vw;
+    max-height: 88vh;
+    border-radius: 8px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.35);
+  }
+
+  .lightbox-close {
+    position: absolute;
+    top: 18px;
+    right: 24px;
+    font-size: 34px;
+    line-height: 1;
+    color: white;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  @media (max-width: 900px) {
+    .gallery-row {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .gallery-text {
+      text-align: center;
+    }
+  }
+</style>
 
 This page highlights selected directions. See also the [Publications](/publications/).
 
