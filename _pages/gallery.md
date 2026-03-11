@@ -103,10 +103,6 @@ classes: wide
    PhD Defense (2025)
   </h2>
   <div style="display: flex; justify-content: center;">
-
-  
-   </p>
-   </blockquote>
   </div>
    <img src="/images/PhDDefense.jpg"
          alt="PhDDefense"
