@@ -209,7 +209,8 @@ this suggests that the full complex weak value is a characteristic of each photo
   <hr style="margin:15px 0;">
 
 ## 6. Quantum Atomic Clock
-**Ongoing Project**
+<em>Ongoing Project</em><br>
+
 
 
 <div id="lightbox" class="lightbox" onclick="closeLightbox(event)">
