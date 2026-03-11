@@ -44,7 +44,7 @@ classes: wide
   }
 
   .gallery-thumb.large {
-    width: 320px;
+    width: 400px;
   }
 
   .gallery-thumb.poster {
@@ -102,7 +102,7 @@ This page highlights selected directions. See also the [Publications](/publicati
     <div class="gallery-text">
       <h2>1. Quantum-Enhanced Spectroscopy</h2>
       <p>
-        <em>Physical Review X 15, 041009  (2025) - Quantum and Classical Frequency Combs for Sensing </em><br>
+        <em>Physical Review X 15, 041009  (2025) - Quantum Frequency Combs for Sensing </em><br>
        Optical frequency combs have emerged as a cornerstone for a wide range of areas, including spectroscopy, ranging, optical clocks, time and frequency transfer, waveform synthesis, and communications. However, quantum-mechanical fluctuations of the optical carrier impose fundamental performance limits on the precision of classical optical frequency combs, particularly in their use for interferometry and spectroscopy. Entanglement, as a quintessential quantum resource, allows for surpassing the fundamental limits of classical systems. Here, we introduce entanglement into the realm of optical frequency combs, formulating entangled dual-comb spectroscopy (EDCS) that surmounts the fundamental limits of classical DCS. EDCS capitalizes on tailored entangled structures across the frequency comb, enabling simultaneous detection of all comb lines below the standard quantum limit of classical DCS. Applying EDCS in gas detection, we achieve a 2.6-dB enhancement in signal-to-noise ratio and a 1.7-fold reduction in integration time over classical DCS, rendering EDCS particularly suited for dynamic chemical and biological sensing, where fast, precise measurements subject to power constraints are required. EDCS opens a new avenue for exploiting quantum frequency combs, underscoring their prospects in a plethora of applications in precision metrology, spectroscopy, and timekeeping.
       </p>
     </div>
@@ -197,7 +197,7 @@ this suggests that the full complex weak value is a characteristic of each photo
 
     <img src="/images/Weak.png"
          alt="Weak"
-         class="gallery-thumb medium"
+         class="gallery-thumb large"
          onclick="openLightbox(this.src)">
   </div>
   <hr style="margin:60px 0;">
