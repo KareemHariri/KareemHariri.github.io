@@ -113,7 +113,7 @@ This page highlights selected directions. See also the [Publications](/publicati
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:30px 0;">
+  <hr style="margin:15px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <h2>2. On-chip Quantum Light</h2>
@@ -147,7 +147,7 @@ Operating under practical conditions, our system demonstrates the feasibility of
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:30px 0;">
+  <hr style="margin:15px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <h2>4. Quantum Radar</h2>
@@ -178,7 +178,7 @@ wireless networks. However, classical radar systems within ISAC architectures fa
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
     </div>
-  <hr style="margin:30px 0;">
+  <hr style="margin:15px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>5. Quantum Measurement of Signal Amplitude and Phase</h2>
@@ -206,7 +206,7 @@ this suggests that the full complex weak value is a characteristic of each photo
          class="gallery-thumb large"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:30px 0;">
+  <hr style="margin:15px 0;">
 
 ## 6. Quantum Atomic Clock
 **Ongoing Project**
