@@ -112,13 +112,7 @@ classes: wide
 
   <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
     <em>My colleagues and friends who supported me throughout my PhD journey
-  </p>
 
-
-## PhD Defense (2025)
-My colleagues and friends who supported me throughout my PhD journey
-
-<img src="{{ '/images/PhDDefense.jpg' | relative_url }}" alt="PhDDefense" style="width:1100px; height:auto; margin-left:65px;">
 
 
 ## CLEO Conference (2025)
