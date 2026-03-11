@@ -40,7 +40,7 @@ classes: wide
   }
 
   .gallery-thumb.medium {
-    width: 400px;
+    width: 500px;
   }
 
   .gallery-thumb.large {
@@ -160,9 +160,6 @@ wireless networks. However, classical radar systems within ISAC architectures fa
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-
-  </div>
-  <hr style="margin:60px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <p>
@@ -171,20 +168,18 @@ wireless networks. However, classical radar systems within ISAC architectures fa
       </p>
     </div>
 
-    <img src="/images/5GQRadar.png"
-         alt="5GQRadar"
+    <img src="/images/QRadar.jpg"
+         alt="QRadar"
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
-  </div>
-
-### 5. Quantum Measurement of Signal Amplitude and Phase
-**Physical Review A 100, 032119  (2019)**
-
-(Schemes for measuring quantum systems)
-
-<img src="{{ '/images/Weak.png' | relative_url }}" alt="Weak" style="width:600px; height:auto;  margin-left:325px;">
-
-The weak value, the average result of a weak measurement, has proven useful for probing quantum and
+    </div>
+  <hr style="margin:60px 0;">
+<div class="gallery-row">
+    <div class="gallery-text">
+      <h2>5. Quantum Measurement of Signal Amplitude and Phase</h2>
+      <p>
+        <em>Physical Review A 100, 032119  (2019) - Schemes for measuring quantum systems </em><br>
+      The weak value, the average result of a weak measurement, has proven useful for probing quantum and
 classical systems. Examples include amplifying small signals, investigating quantum paradoxes, and elucidating
 fundamental quantum phenomena such as geometric phase. A key characteristic of the weak value is that it
 can be complex, in contrast to a standard expectation value. However, typically only either the real or imaginary
@@ -197,6 +192,15 @@ to simultaneously read out both components of the weak value in a single experim
 we directly measure the polarization state of an ensemble of photons using weak measurement.With our method,
 each photon contributes to both the real and imaginary parts of the weak-value average. On a fundamental level,
 this suggests that the full complex weak value is a characteristic of each photon measured.
+      </p>
+    </div>
+
+    <img src="/images/Weak.png"
+         alt="Weak"
+         class="gallery-thumb medium"
+         onclick="openLightbox(this.src)">
+  </div>
+  <hr style="margin:60px 0;">
 
 ### 6. Quantum Atomic Clock
 **Ongoing Project**
