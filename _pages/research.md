@@ -40,7 +40,7 @@ classes: wide
   }
 
   .gallery-thumb.medium {
-    width: 300px;
+    width: 400px;
   }
 
   .gallery-thumb.large {
