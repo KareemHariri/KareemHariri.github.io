@@ -149,7 +149,7 @@ Operating under practical conditions, our system demonstrates the feasibility of
     <div class="gallery-text">
       <h2>4. Quantum Radar</h2>
       <p>
-        <em>a. In review - Quantum vs Classical Radar </em><br>
+        <em>a. In review - Quantum-Enhanced Integrated Sensing and Communication </em><br>
        Integrated sensing and communication (ISAC) is emerging as a key enabler for spectrum-efficient and hardwareconverged
 wireless networks. However, classical radar systems within ISAC architectures face fundamental limitations under low signal power and high-noise conditions. This paper proposes a novel framework that embeds quantum illumination radar into a base station to simultaneously support full-duplex classical communication and quantum-enhanced target detection. The resulting integrated quantum sensing and classical communication (IQSCC) system is optimized via a sum-rate maximization formulation subject to radar sensing constraints. The non-convex joint optimization of transmit power and beamforming vectors is tackled using the successive convex approximation technique. Furthermore, we derive performance bounds for classical and quantum radar protocols under the statistical detection theory, highlighting the quantum advantage in low signal-to-interferenceplus-noise ratio regimes. Simulation results demonstrate that the proposed IQSCC system achieves a higher communication throughput than the conventional ISAC baseline while satisfying the sensing requirement.
       </p>
