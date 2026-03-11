@@ -113,6 +113,22 @@ classes: wide
     <em>My colleagues and friends who supported me throughout my PhD journey</em><br>
  </p>
 
+   <hr style="margin:5px 0;">
+
+<div class="gallery-wrap">
+
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   CLEO Conference (2025)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/CLEO2025.jpg"
+         alt="CLEO2025"
+         class="what"
+         onclick="openLightbox(this.src)">
+
+  <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
+   <hr style="margin:5px 0;">
 
 ## CLEO Conference (2025)
 
