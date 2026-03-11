@@ -103,8 +103,8 @@ classes: wide
    PhD Defense (2025)
   </h2>
   <div style="display: flex; justify-content: center;">
-    <blockquote class="twitter-tweet" data-media-max-width="560">
-    <p lang="ar" dir="rtl">
+
+  
    </p>
    </blockquote>
   </div>
