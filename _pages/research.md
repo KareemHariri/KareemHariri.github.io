@@ -44,7 +44,7 @@ classes: wide
   }
 
   .gallery-thumb.large {
-    width: 400px;
+    width: 360px;
   }
 
   .gallery-thumb.poster {
