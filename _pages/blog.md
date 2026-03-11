@@ -17,10 +17,13 @@ classes: wide-page
 “Unforeseen surprises are the rule in science, not the exception. Remember: Stuff happens.” 
 — *Leonard Susskind*
 
+“An expert is a person who has made all the mistakes that can be made in a very narrow field.” 
+— *Niels Bohr*
+
 “Science is what we have learned about how to keep from fooling ourselves.”
 — *David Deutsch*
 
-“Unthinking respect for authority is the greatest enemy of truth” 
+“Unthinking respect for authority is the greatest enemy of truth.” 
 — *Kip Thorne*
 
 “The world keeps happening, in accordance with its rules; it's up to us to make sense of it and give it value.” 
