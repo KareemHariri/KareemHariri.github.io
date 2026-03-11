@@ -102,10 +102,12 @@ classes: wide
   <h2 class="gallery-center" style="margin-bottom: 1rem;">
    PhD Defense (2025)
   </h2>
-
+  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center;">
+    <blockquote class="twitter-tweet" data-media-max-width="560">
    <img src="/images/PhDDefense.jpg"
          alt="PhDDefense"
-         class="gallery-thumb medium"
+         class="what"
          onclick="openLightbox(this.src)">
 
   <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
