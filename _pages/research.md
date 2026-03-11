@@ -100,8 +100,6 @@ This page highlights selected directions. See also the [Publications](/publicati
 
 ## Research Areas
 
-<hr style="margin:60px 0;">
-
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>Quantum-Enhanced Spectroscopy</h2>
@@ -117,8 +115,6 @@ This page highlights selected directions. See also the [Publications](/publicati
          onclick="openLightbox(this.src)">
   </div>
   
-  <hr style="margin:60px 0;">
-
 ### 1. Quantum-Enhanced Spectroscopy
 **Physical Review X 15, 041009  (2025), "Entangled dual-comb spectroscopy"**
 
@@ -190,4 +186,38 @@ this suggests that the full complex weak value is a characteristic of each photo
 
 ### 6. Quantum Atomic Clock
 **Ongoing Project**
+
+</div>
+
+<div id="lightbox" class="lightbox" onclick="closeLightbox(event)">
+  <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
+  <img id="lightbox-img" src="" alt="Expanded gallery image">
+</div>
+
+<script>
+  function openLightbox(src) {
+    document.getElementById('lightbox-img').src = src;
+    document.getElementById('lightbox').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeLightbox(event) {
+    if (
+      event.target.id === 'lightbox' ||
+      event.target.classList.contains('lightbox-close')
+    ) {
+      document.getElementById('lightbox').classList.remove('open');
+      document.getElementById('lightbox-img').src = '';
+      document.body.style.overflow = '';
+    }
+  }
+
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape') {
+      document.getElementById('lightbox').classList.remove('open');
+      document.getElementById('lightbox-img').src = '';
+      document.body.style.overflow = '';
+    }
+  });
+</script>
 
