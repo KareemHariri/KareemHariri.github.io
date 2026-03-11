@@ -143,29 +143,66 @@ classes: wide
   <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
 
 
-## APS March Meeting Conference (2025)
+<div class="gallery-wrap">
 
-<img src="{{ '/images/APS2025.jpg' | relative_url }}" alt="APS2025" style="width:1100px; height:auto; margin-left:65px;">
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   CLEO Conference (2024)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/CLEO2024.jpg"
+         alt="CLEO2024"
+         class="what"
+         onclick="openLightbox(this.src)">
 
-
-## CLEO Conference (2024)
-
-<img src="{{ '/images/CLEO2024.jpg' | relative_url }}" alt="CLEO2024" style="width:700px; height:auto; margin-left:275px;">
-
-
-## Midwest Quantum Collaboratory (2023)
-
-<img src="{{ '/images/MQC.jpg' | relative_url }}" alt="MQC" style="width:1100px; height:auto; margin-left:65px;">
-
-
-## Information in a Photon Class (2022, tought by Saikat Guha)
-
-<img src="{{ '/images/Saikat.jpg' | relative_url }}" alt="Saikat" style="width:1100px; height:auto; margin-left:65px;">
+  <p class="gallery-center" style="max-width:460px; margin:1.5rem auto 3rem auto;">
 
 
-## IDQ's Winter School (2020)
 
-<img src="{{ '/images/IDQwinterschool.jpg' | relative_url }}" alt="IDQwinterschool" style="width:1100px; height:auto; margin-left:65px;">
+<div class="gallery-wrap">
+
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   Midwest Quantum Collaboratory (2023)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/MQC.jpg"
+         alt="MQC"
+         class="what"
+         onclick="openLightbox(this.src)">
+
+  <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
+
+
+<div class="gallery-wrap">
+
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   Information in a Photon Class (2022, tought by Saikat Guha)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/Saikat.jpg"
+         alt="Saikat"
+         class="what"
+         onclick="openLightbox(this.src)">
+
+  <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
+
+
+  <div class="gallery-wrap">
+
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   IDQ's Winter School (2020)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/IDQwinterschool.jpg"
+         alt="IDQwinterschool"
+         class="what"
+         onclick="openLightbox(this.src)">
+
+  <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
+
 
 <div id="lightbox" class="lightbox" onclick="closeLightbox(event)">
   <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
