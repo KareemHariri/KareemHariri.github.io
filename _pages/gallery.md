@@ -13,6 +13,11 @@ classes: wide
     margin: 0 auto;
   }
 
+  .gallery-wrap {
+    max-width: 550px;
+    margin: 0 auto;
+  }
+
   .gallery-center {
     text-align: center;
   }
@@ -143,7 +148,7 @@ classes: wide
   <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
 
 
-<div class="gallery-wrap">
+<div class="gallery-wrapp">
 
   <h2 class="gallery-center" style="margin-bottom: 1rem;">
    CLEO Conference (2024)
