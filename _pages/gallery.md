@@ -128,9 +128,19 @@ classes: wide
   <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
 
 
-## CLEO Conference (2025)
+<div class="gallery-wrap">
 
-<img src="{{ '/images/CLEO2025.jpg' | relative_url }}" alt="CLEO2025" style="width:1100px; height:auto; margin-left:65px;">
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   APS March Meeting Conference (2025)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/APS2025.jpg"
+         alt="APS2025"
+         class="what"
+         onclick="openLightbox(this.src)">
+
+  <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
 
 
 ## APS March Meeting Conference (2025)
