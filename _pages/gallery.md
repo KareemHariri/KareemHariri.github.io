@@ -103,8 +103,8 @@ classes: wide
    PhD Defense (2025)
   </h2>
   <div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: center;">
     <blockquote class="twitter-tweet" data-media-max-width="560">
+    <p lang="ar" dir="rtl">
    <img src="/images/PhDDefense.jpg"
          alt="PhDDefense"
          class="what"
@@ -112,7 +112,7 @@ classes: wide
 
   <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
     <em>My colleagues and friends who supported me throughout my PhD journey
-
+ </p>
 
 
 ## CLEO Conference (2025)
