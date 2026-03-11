@@ -105,13 +105,16 @@ classes: wide
   <div style="display: flex; justify-content: center;">
     <blockquote class="twitter-tweet" data-media-max-width="560">
     <p lang="ar" dir="rtl">
+   </p>
+   </blockquote>
+  </div>
    <img src="/images/PhDDefense.jpg"
          alt="PhDDefense"
          class="what"
          onclick="openLightbox(this.src)">
 
   <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
-    <em>My colleagues and friends who supported me throughout my PhD journey
+    <em>My colleagues and friends who supported me throughout my PhD journey</em><br>
  </p>
 
 
