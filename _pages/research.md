@@ -103,7 +103,7 @@ This page highlights selected directions. See also the [Publications](/publicati
       <h2>1. Quantum-Enhanced Spectroscopy</h2>
       <p>
         <em>Physical Review X 15, 041009  (2025) - Quantum Frequency Combs for Sensing </em><br>
-        <div style="height:5px;"></div>
+        <div style="height:2px;"></div>
        Optical frequency combs have emerged as a cornerstone for a wide range of areas, including spectroscopy, ranging, optical clocks, time and frequency transfer, waveform synthesis, and communications. However, quantum-mechanical fluctuations of the optical carrier impose fundamental performance limits on the precision of classical optical frequency combs, particularly in their use for interferometry and spectroscopy. Entanglement, as a quintessential quantum resource, allows for surpassing the fundamental limits of classical systems. Here, we introduce entanglement into the realm of optical frequency combs, formulating entangled dual-comb spectroscopy (EDCS) that surmounts the fundamental limits of classical DCS. EDCS capitalizes on tailored entangled structures across the frequency comb, enabling simultaneous detection of all comb lines below the standard quantum limit of classical DCS. Applying EDCS in gas detection, we achieve a 2.6-dB enhancement in signal-to-noise ratio and a 1.7-fold reduction in integration time over classical DCS, rendering EDCS particularly suited for dynamic chemical and biological sensing, where fast, precise measurements subject to power constraints are required. EDCS opens a new avenue for exploiting quantum frequency combs, underscoring their prospects in a plethora of applications in precision metrology, spectroscopy, and timekeeping.
       </p>
     </div>
@@ -119,7 +119,7 @@ This page highlights selected directions. See also the [Publications](/publicati
       <h2>2. On-chip Quantum Light</h2>
       <p>
         <em>arXiv:2509.10445 (2025) - Wafer-Scale Squeezed-Light Chips </em><br>
-        <div style="height:10px;"></div>
+        <div style="height:3px;"></div>
        Squeezed-light generation in photonic integrated circuits (PICs) is essential for scalable continuous-variable (CV) quantum information processing. By suppressing quantum fluctuations below the shot-noise limit, squeezed states enable quantum-enhanced sensing and serve as a standard resource for CV quantum information processing. While chip-level squeezed-light sources have been demonstrated, extending this capability to the wafer level with reproducible strong squeezing to bolster large-scale quantum-enhanced sensing and information processing has been hindered by squeezed light's extreme susceptibility to device imperfections. Here, we report wafer-scale fabrication, generation, and characterization of two-mode squeezed-vacuum states on a fully complementary metal-oxide-semiconductor (CMOS)-compatible silicon nitride (Si3N4) PIC platform. Across a 4-inch wafer, 8 dies yield 2.9-3.1 dB directly measured quadrature squeezing with <0.2 dB variation, demonstrating excellent uniformity. This performance is enabled by co-integrating ultralow-loss, strongly overcoupled high-Q microresonators, cascaded pump-rejection filters, and low-loss inverse-tapered edge couplers. The measurements agree with a first-principles theoretical model parameterized solely by independently extracted device parameters and experimental settings. The measured squeezing level can be further improved by enhancing the efficiencies of off-chip detection and chip-to-fiber coupling. These results establish a reproducible, wafer-scale route to nonclassical-light generation in integrated photonics and lay the groundwork for scalable CV processors, multiplexed entanglement sources, and quantum-enhanced sensing.
       </p>
     </div>
@@ -147,7 +147,7 @@ Operating under practical conditions, our system demonstrates the feasibility of
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:60px 0;">
+  <hr style="margin:4px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <h2>4. Quantum Radar</h2>
