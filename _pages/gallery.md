@@ -109,8 +109,8 @@ classes: wide
   </h2>
   <div style="display: flex; justify-content: center;">
   </div>
-   <img src="/images/IDQwinterschool.jpg"
-         alt="IDQwinterschool"
+   <img src="/images/Vladan postdocs.jpg"
+         alt="Vladan postdocs"
          class="what"
          onclick="openLightbox(this.src)">
 
