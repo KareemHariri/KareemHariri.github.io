@@ -102,6 +102,22 @@ classes: wide
   }
 </style>
 
+  <div class="gallery-wrap">
+
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   RLE Photoshoot (2026)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/IDQwinterschool.jpg"
+         alt="IDQwinterschool"
+         class="what"
+         onclick="openLightbox(this.src)">
+
+  <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
+      <em>Postdoctoral Researchers of the Experimental Atomic Physics Group </em><br>
+ </p>
+
 <div class="gallery-wrap">
 
   <h2 class="gallery-center" style="margin-bottom: 1rem;">
