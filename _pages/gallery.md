@@ -14,7 +14,7 @@ classes: wide
   }
 
   .gallery-wrap {
-    max-width: 650px;
+    max-width: 600px;
     margin: 0 auto;
   }
 
