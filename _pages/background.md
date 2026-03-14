@@ -15,7 +15,7 @@ classes: wide-page
 
 ## Current Position
 
-Postdoctoral Researcher, MIT, Present
+Postdoctoral Researcher, MIT
 
 ## Research Experience
 
