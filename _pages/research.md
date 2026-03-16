@@ -181,7 +181,7 @@ wireless networks. However, classical radar systems within ISAC architectures fa
   <div class="gallery-row">
     <div class="gallery-text">
       <p>
-        <em>b. Physical Review A 112, 052613  (2025) - Quantum Illumination </em><br>
+       <em><a href="https://journals.aps.org/pra/abstract/10.1103/cxl9-ljn8">b. Physical Review A 112, 052613  (2025) </a>- Quantum Illumination </em><br>
         <div style="height:1.5px;"></div>
       Quantum illumination (QI) provides entanglement-enabled target detection enhancement, despite operating in an entanglement-breaking environment. Existing experimental studies of QI have utilized a Bayesian approach, assuming that the target is equally likely to be present or absent before detection, to demonstrate an advantage over classical target detection. However, such a premise breaks down in practical operational scenarios in which the prior probability is unknown, thereby hindering QI's applicability to real-world target detection scenarios. In this work, we experimentally implement the phase-conjugate receiver architecture previously envisioned for quantum illumination based target detection, and adopt the Neyman-Pearson criterion in lieu of the error probability for equally likely target absence or presence as our figure of merit for QI. We experimentally demonstrate an unconditional quantum advantage over the optimal classical-illumination protocol as benchmarked by the receiver operating characteristic, which examines detection probability versus false-alarm probability without resorting to known prior probabilities. Our work represents a critical advancement in adapting quantum-enhanced sensing to practical operational settings.
       </p>
