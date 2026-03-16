@@ -113,7 +113,7 @@ This page highlights selected directions. See also the [Publications](/publicati
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-   <hr style="margin:8px 0;">
+   <hr style="margin:4px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <h2>2. On-Chip Quantum Light Sources</h2>
@@ -132,7 +132,7 @@ This page highlights selected directions. See also the [Publications](/publicati
   <div class="gallery-row">
     <div class="gallery-text">
       <p>
-        <em>b. arXiv:2509.10445 (2025) - Wafer-Scale Squeezed-Light Chips </em><br>
+         <em><a href="https://arxiv.org/abs/2509.10445">b. arXiv:2509.10445 (2025)</a> - Wafer-Scale Squeezed-Light Chips </em><br>
         <div style="height:1.5px;"></div>
       Squeezed-light generation in photonic integrated circuits (PICs) is essential for scalable continuous-variable (CV) quantum information processing. By suppressing quantum fluctuations below the shot-noise limit, squeezed states enable quantum-enhanced sensing and serve as a standard resource for CV quantum information processing. While chip-level squeezed-light sources have been demonstrated, extending this capability to the wafer level with reproducible strong squeezing to bolster large-scale quantum-enhanced sensing and information processing has been hindered by squeezed light's extreme susceptibility to device imperfections. Here, we report wafer-scale fabrication, generation, and characterization of two-mode squeezed-vacuum states on a fully complementary metal-oxide-semiconductor (CMOS)-compatible silicon nitride (Si3N4) PIC platform. Across a 4-inch wafer, 8 dies yield 2.9-3.1 dB directly measured quadrature squeezing with <0.2 dB variation, demonstrating excellent uniformity. This performance is enabled by co-integrating ultralow-loss, strongly overcoupled high-Q microresonators, cascaded pump-rejection filters, and low-loss inverse-tapered edge couplers. The measurements agree with a first-principles theoretical model parameterized solely by independently extracted device parameters and experimental settings. The measured squeezing level can be further improved by enhancing the efficiencies of off-chip detection and chip-to-fiber coupling. These results establish a reproducible, wafer-scale route to nonclassical-light generation in integrated photonics and lay the groundwork for scalable CV processors, multiplexed entanglement sources, and quantum-enhanced sensing.
       </p>
@@ -143,7 +143,7 @@ This page highlights selected directions. See also the [Publications](/publicati
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
     </div>
-  <hr style="margin:8px 0;">
+  <hr style="margin:4px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>3. Quantum Optical Gyroscope</h2>
@@ -161,7 +161,7 @@ Operating under practical conditions, our system demonstrates the feasibility of
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:8px 0;">
+  <hr style="margin:4px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <h2>4. Quantum Radar</h2>
@@ -192,7 +192,7 @@ wireless networks. However, classical radar systems within ISAC architectures fa
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
     </div>
-  <hr style="margin:8px 0;">
+  <hr style="margin:4px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>5. Quantum Measurement of Signal Amplitude and Phase</h2>
@@ -220,7 +220,7 @@ this suggests that the full complex weak value is a characteristic of each photo
          class="gallery-thumb large"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:8px 0;">
+  <hr style="margin:4px 0;">
 
 ## 6. Quantum Atomic Clock
 <em>Ongoing Project</em><br>
