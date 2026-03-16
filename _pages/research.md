@@ -113,14 +113,14 @@ This page highlights selected directions. See also the [Publications](/publicati
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-   <hr style="margin:15px 0;">
+   <hr style="margin:8px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <h2>2. On-Chip Quantum Light Sources</h2>
       <p>
-        <em><a href="https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-5/issue-02/026019/Squeezed-light-generation-in-thin-film-silicon-nitride-photonic-integrated/10.1117/1.APN.5.2.026019.full">a. Advanced Photonics Nexus 026019 (2026)</a> - Foundry-Compatible Squeezed Light Sources </em><br>
+        <em><a href="https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-5/issue-02/026019/Squeezed-light-generation-in-thin-film-silicon-nitride-photonic-integrated/10.1117/1.APN.5.2.026019.full">a. Advanced Photonics Nexus (2026)</a> - Foundry-Compatible Squeezed Light Sources </em><br>
         <div style="height:1.5px;"></div>
-      Squeezed light is a fundamental resource for a broad spectrum of quantum technologies, including precision metrology, secure communication, and quantum simulation and computing. The integration of squeezed-light sources with photonic circuits presents a transformative approach—not only offering compactness, stability, and scalability, but also enabling seamless high-fidelity on-chip generation, manipulation, and processing of quantum states without being hampered by inter-component quantum decoherence arising from loss and noise. In this work, we report the experimental generation of a two-mode squeezed vacuum state on a thin-film silicon-nitride photonic integrated circuit. Quadrature squeezing of − 2.1 dB ± 0.09 dB and anti-squeezing of 7.1 dB ± 0.04 dB are directly measured. Our findings highlight the potential of the thin-film silicon nitride platform that capitalizes on fully foundry-compatible fabrication technologies to advance robust, large-scale, and manufacturing-ready quantum information processing systems.
+      Squeezed light is a fundamental resource for a broad spectrum of quantum technologies, including precision metrology, secure communication, and quantum computing. The integration of squeezed-light sources with photonic circuits presents a transformative approach, not only offering compactness, stability, and scalability, but also enabling high-fidelity on-chip generation, manipulation, and processing of quantum states without being hampered by inter-component quantum decoherence arising from loss and noise. In this work, we report the experimental generation of a two-mode squeezed vacuum state on a thin-film silicon-nitride photonic integrated circuit. Quadrature squeezing of − 2.1 dB ± 0.09 dB and anti-squeezing of 7.1 dB ± 0.04 dB are directly measured. Our findings highlight the potential of the thin-film silicon nitride platform that capitalizes on fully foundry-compatible fabrication technologies to advance quantum information processing systems.
       </p>
     </div>
 
@@ -143,7 +143,7 @@ This page highlights selected directions. See also the [Publications](/publicati
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
     </div>
-  <hr style="margin:15px 0;">
+  <hr style="margin:8px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>3. Quantum Optical Gyroscope</h2>
@@ -161,7 +161,7 @@ Operating under practical conditions, our system demonstrates the feasibility of
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:15px 0;">
+  <hr style="margin:8px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
       <h2>4. Quantum Radar</h2>
@@ -192,7 +192,7 @@ wireless networks. However, classical radar systems within ISAC architectures fa
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
     </div>
-  <hr style="margin:15px 0;">
+  <hr style="margin:8px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>5. Quantum Measurement of Signal Amplitude and Phase</h2>
@@ -220,7 +220,7 @@ this suggests that the full complex weak value is a characteristic of each photo
          class="gallery-thumb large"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:15px 0;">
+  <hr style="margin:8px 0;">
 
 ## 6. Quantum Atomic Clock
 <em>Ongoing Project</em><br>
