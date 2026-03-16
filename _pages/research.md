@@ -102,7 +102,7 @@ This page highlights selected directions. See also the [Publications](/publicati
     <div class="gallery-text">
       <h2>1. Quantum-Enhanced Spectroscopy</h2>
       <p>
-        <em>Physical Review X 15, 041009  (2025) - Quantum Frequency Combs for Sensing </em><br>
+        <em>[Physical Review X 15, 041009  (2025)](https://journals.aps.org/prx/abstract/10.1103/plh2-cr8s) - Quantum Frequency Combs for Sensing </em><br>
         <div style="height:1.5px;"></div>
        Optical frequency combs have emerged as a cornerstone for a wide range of areas, including spectroscopy, ranging, optical clocks, time and frequency transfer, waveform synthesis, and communications. However, quantum-mechanical fluctuations of the optical carrier impose fundamental performance limits on the precision of classical optical frequency combs, particularly in their use for interferometry and spectroscopy. Entanglement, as a quintessential quantum resource, allows for surpassing the fundamental limits of classical systems. Here, we introduce entanglement into the realm of optical frequency combs, formulating entangled dual-comb spectroscopy (EDCS) that surmounts the fundamental limits of classical DCS. EDCS capitalizes on tailored entangled structures across the frequency comb, enabling simultaneous detection of all comb lines below the standard quantum limit of classical DCS. Applying EDCS in gas detection, we achieve a 2.6-dB enhancement in signal-to-noise ratio and a 1.7-fold reduction in integration time over classical DCS, rendering EDCS particularly suited for dynamic chemical and biological sensing, where fast, precise measurements subject to power constraints are required. EDCS opens a new avenue for exploiting quantum frequency combs, underscoring their prospects in a plethora of applications in precision metrology, spectroscopy, and timekeeping.
       </p>
@@ -113,23 +113,37 @@ This page highlights selected directions. See also the [Publications](/publicati
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
   </div>
-  <hr style="margin:15px 0;">
+   <hr style="margin:15px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
-      <h2>2. On-chip Quantum Light</h2>
+      <h2>2. On-Chip Quantum Light Sources</h2>
       <p>
-        <em>arXiv:2509.10445 (2025) - Wafer-Scale Squeezed-Light Chips </em><br>
+        <em>a. Advanced Photonics Nexus, Vol. 5, Issue 2, 026019 (March 2026) - foundry-compatible squeezed light source </em><br>
         <div style="height:1.5px;"></div>
-       Squeezed-light generation in photonic integrated circuits (PICs) is essential for scalable continuous-variable (CV) quantum information processing. By suppressing quantum fluctuations below the shot-noise limit, squeezed states enable quantum-enhanced sensing and serve as a standard resource for CV quantum information processing. While chip-level squeezed-light sources have been demonstrated, extending this capability to the wafer level with reproducible strong squeezing to bolster large-scale quantum-enhanced sensing and information processing has been hindered by squeezed light's extreme susceptibility to device imperfections. Here, we report wafer-scale fabrication, generation, and characterization of two-mode squeezed-vacuum states on a fully complementary metal-oxide-semiconductor (CMOS)-compatible silicon nitride (Si3N4) PIC platform. Across a 4-inch wafer, 8 dies yield 2.9-3.1 dB directly measured quadrature squeezing with <0.2 dB variation, demonstrating excellent uniformity. This performance is enabled by co-integrating ultralow-loss, strongly overcoupled high-Q microresonators, cascaded pump-rejection filters, and low-loss inverse-tapered edge couplers. The measurements agree with a first-principles theoretical model parameterized solely by independently extracted device parameters and experimental settings. The measured squeezing level can be further improved by enhancing the efficiencies of off-chip detection and chip-to-fiber coupling. These results establish a reproducible, wafer-scale route to nonclassical-light generation in integrated photonics and lay the groundwork for scalable CV processors, multiplexed entanglement sources, and quantum-enhanced sensing.
+      Squeezed light is a fundamental resource for a broad spectrum of quantum technologies, including precision metrology, secure communication, and quantum simulation and computing. The integration of squeezed-light sources with photonic circuits presents a transformative approach—not only offering compactness, stability, and scalability, but also enabling seamless high-fidelity on-chip generation, manipulation, and processing of quantum states without being hampered by inter-component quantum decoherence arising from loss and noise. In this work, we report the experimental generation of a two-mode squeezed vacuum state on a thin-film silicon-nitride photonic integrated circuit with normal group velocity dispersion of 6.3 × 10 5 fs 2 / m . Quadrature squeezing of − 2.1 dB ± 0.09 dB and anti-squeezing of 7.1 dB ± 0.04 dB are directly measured. To fully understand the dynamics of the quantum process, a comprehensive theoretical model is developed to capture the squeezing performance, showing excellent agreement with experimental results. Our findings highlight the potential of the thin-film silicon nitride platform that capitalizes on fully foundry-compatible fabrication technologies to advance robust, large-scale, and manufacturing-ready quantum information processing systems.
+      </p>
+    </div>
+
+    <img src="/images/thin_onchip.png"
+         alt="thin_onchip"
+         class="gallery-thumb medium"
+         onclick="openLightbox(this.src)">
+  </div>
+  <div class="gallery-row">
+    <div class="gallery-text">
+      <p>
+        <em>b. arXiv:2509.10445 (2025) - Wafer-Scale Squeezed-Light Chips </em><br>
+        <div style="height:1.5px;"></div>
+      Squeezed-light generation in photonic integrated circuits (PICs) is essential for scalable continuous-variable (CV) quantum information processing. By suppressing quantum fluctuations below the shot-noise limit, squeezed states enable quantum-enhanced sensing and serve as a standard resource for CV quantum information processing. While chip-level squeezed-light sources have been demonstrated, extending this capability to the wafer level with reproducible strong squeezing to bolster large-scale quantum-enhanced sensing and information processing has been hindered by squeezed light's extreme susceptibility to device imperfections. Here, we report wafer-scale fabrication, generation, and characterization of two-mode squeezed-vacuum states on a fully complementary metal-oxide-semiconductor (CMOS)-compatible silicon nitride (Si3N4) PIC platform. Across a 4-inch wafer, 8 dies yield 2.9-3.1 dB directly measured quadrature squeezing with <0.2 dB variation, demonstrating excellent uniformity. This performance is enabled by co-integrating ultralow-loss, strongly overcoupled high-Q microresonators, cascaded pump-rejection filters, and low-loss inverse-tapered edge couplers. The measurements agree with a first-principles theoretical model parameterized solely by independently extracted device parameters and experimental settings. The measured squeezing level can be further improved by enhancing the efficiencies of off-chip detection and chip-to-fiber coupling. These results establish a reproducible, wafer-scale route to nonclassical-light generation in integrated photonics and lay the groundwork for scalable CV processors, multiplexed entanglement sources, and quantum-enhanced sensing.
       </p>
     </div>
 
     <img src="/images/On-Chip1.jpg"
-         alt="Onchip"
+         alt="On-Chip1"
          class="gallery-thumb medium"
          onclick="openLightbox(this.src)">
-  </div>
-
+    </div>
+  <hr style="margin:15px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>3. Quantum Optical Gyroscope</h2>
