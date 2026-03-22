@@ -19,7 +19,7 @@ Postdoctoral Researcher, MIT
 
 ## Research Experience
 
-<img src="{{ '/images/MITlogo.png' | relative_url }}" alt="MIT" style="width:150px; height:auto;"> **MIT (Present):** Quantum optical atomic clock
+<img src="{{ '/images/MITlogo.png' | relative_url }}" alt="MIT" style="width:150px; height:auto;"> **MIT (2026-Present):** Quantum optical atomic clock
 
 <img src="{{ '/images/umichlogo.png' | relative_url }}" alt="umich" style="width:150px; height:auto;"> **University of Michigan (2021–2025):** Quantum sensing, Quantum optical frequency combs, Integrated photonics, Optical gyroscopes
 
