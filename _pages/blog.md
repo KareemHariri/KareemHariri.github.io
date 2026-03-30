@@ -74,7 +74,7 @@ Professor Ronald Walsworth (distinguished physicist and a pioneering expert in q
 
 To be fair, some of these remarks are made in the spirit of friendly rivalry. Science has always had its tribes, and teasing across boundaries is not new. But what is striking is how often such comments are not playful at all. They are meant to diminish other people’s work.
 
-Specialization in modern academia is unavoidable. No one can master everything. But specialization can easily harden into identity, and identity into arrogance: *my field is more important*, *my field is purer*. Even the way science is presented to the public reinforces this divide. Grand theories often receive the prestige, while the painstaking work of testing, building, refining, and engineering is treated as secondary.
+Specialization in modern academia is unavoidable. But specialization can easily harden into identity, and identity into arrogance: *my field is more important*, *my field is purer*. Even the way science is presented to the public reinforces this divide. Grand theories often receive the prestige, while the painstaking work of testing, building, refining, and engineering is treated as secondary.
 
 Yet science does not actually advance along a single lane. It advances through a loop. Theory proposes structures, principles, and constraints. Experiment determines what survives contact with reality. Engineering transforms fragile concepts into reliable, controllable systems that, in turn, create new possibilities for both experiment and theory. The convergence of these three elements yields truly remarkable results.
 
