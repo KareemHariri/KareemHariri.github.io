@@ -88,9 +88,9 @@ Unfortunately, I have also seen the opposite.
 
 I have seen experiments carried out, results analyzed in detail, conclusions drawn, and even manuscripts nearly finished before theory enters the picture only as decoration. At that point, a model is added simply because it matches the data and makes the paper look more sophisticated. I have heard principal investigators describe this quite bluntly: the paper can be made “nicer” with a few decorative equations.
 
-That mentality reveals a shallow idea of collaboration. In that model, experimental papers are polished by adding theoretical formalism after the fact, while theory-heavy papers are made to seem more “realistic” by sprinkling in speculative experimental relevance. Everyone gains another publication, but the collaboration itself remains theatric. The work may look interdisciplinary on paper while lacking the intellectual exchange that makes interdisciplinary science meaningful.
+That mentality reveals a shallow idea of collaboration. In that model, experimental papers are polished by adding theoretical formalism after the fact, while theory-heavy papers are made more “realistic” by sprinkling in speculative experimental relevance. Everyone gains another publication, but the collaboration itself remains theatric. The work may look interdisciplinary on paper while lacking the intellectual exchange that makes interdisciplinary science meaningful.
 
-Still, it would be depressing to end there, because there are plenty of better examples: cases where theory, experiment, and engineering worked together and delivered.
+It would be depressing to end the article on that note, especially when there are so many better examples: cases where theory, experiment, and engineering worked together and delivered remarkable results.
 
 1. **The transistor**  
    William Shockley captured this spirit well:
