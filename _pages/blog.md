@@ -50,65 +50,75 @@ classes: wide-page
 ## Articles 
 
 ### Theory vs Technology
-Since I first got interested in the natural sciences about 15 years ago, I’ve repeatedly noticed specialists talking past one another, or even looking down on each other. 
+During my PhD in quantum optics, I found myself in an unusual position: I was a physicist by training, but I was based in an electrical engineering department. That meant I was never quite claimed by either side. My friends in theoretical physics thought my work was “too applied.” My engineering colleagues thought it was “too science-y.” I seemed to exist in a disciplinary no-man’s-land.
 
-The stereotypes are easy to recognize. The theorist says to the experimentalist: all you do is count electrons on a screen.
+The irony was that my field was considered exciting enough to appear in top-tier journals, yet its significance was often difficult to explain to people unwilling to step outside their intellectual corners. That experience stayed with me because it revealed something larger than my own situation: science is full of people talking past one another.
 
-The experimentalist fires back: all you do is write science fiction, as none of your ideas are realistic.
+Over the past 15 years, ever since I first became seriously interested in the natural sciences, I have seen this pattern again and again. Specialists do not merely misunderstand one another; but also look down on one another.
 
-Physicists dismiss engineers: you don’t understand anything!
+The stereotypes are familiar.
 
-Engineers respond: none of your ideas work outside the lab.
+The theorist says to the experimentalist: *all you do is count electrons on a screen.*
 
-It doesn’t stop there. People who work on “fundamental” problems can look down on applied work; people
-who build applied systems can treat foundational research as self-indulgent. The labels change, but the pattern is the same: we turn differences in role into claims about worth. 
+The experimentalist fires back: *all you do is write science fiction; none of your ideas are realistic.*
 
-Professor Ron Walsworth touches on this issue in the scientific community, when he appeared on 632nm podcast “The Surprising Power of NV Centers” where he said: “Nowadays, people in physics don’t take most theorists as seriously. In hindsight, we lionize theorists of the past. And it is not that theorists aren’t serious people, it is just their calculations usually don’t bring as much merit or weight in most cases compared to well done experiments.”   
+Physicists dismiss engineers: *you do not understand science.*
 
-I want to clarify: yes, sometimes these comments are meant as friendly rivalry, but what’s surprising is when they are meant to discredit other’s work. In modern academia, specialization is unavoidable, but it can drift into identity and arrogance: “my corner is more important”, “my corner is purer,” “my corner is the science that matters.” Even public storytelling reinforces this, often awarding more cultural prestige to grand ideas than to the hard work of making ideas testable.
+Engineers respond: *none of your ideas work outside the lab.*
 
-During my PhD, I worked on Quantum Optics, and I happened to be in the department of electrical engineering. Because my undergraduate was in Physics, my friends who were doing theoretical physics thought my work is “too applied” for their taste. While my colleagues from engineering thought my work is “too sciencey”. It seemed as if there is no wining for me. While my area of expertise was “hot enough” to be considered in top-tier journals, it was not easy to explain its significance to those refusing to step out of their ‘corners’.        
+And the pattern extends far beyond those labels. Researchers who work on “fundamental” problems can look down on applied work, while those building systems can treat foundational research as self-indulgent. The labels change, but the instinct remains the same: differences in role become judgments about worth.
 
-But the deeper truth is that science rarely advances along a single lane. It advances through a loop: theory
-proposes structure and constraints; experiment decides what survives contact with reality; and
-engineering turn fragile concepts into controllable systems that open new possibilities for theoretical endeavors. When this three-way interaction is utilized, the outcome is marvelous. 
+Professor Ronald Walsworth (distinguished physicist and a pioneering expert in quantum sensing and precision measurement) touched on this matter when he appeared on the *632nm* podcast, *The Surprising Power of NV Centers*. Reflecting on the status of theory in physics today, he remarked:
 
-Professor Peter Zoller describes his own experience as a theorist working with experimentalists  when he appeared on 632nm podcast “The Quantum Revolution” where he said: 
+> “Nowadays, people in physics don’t take most theorists as seriously. In hindsight, we lionize theorists of the past. And it is not that theorists aren’t serious people, it is just their calculations usually don’t bring as much merit or weight in most cases compared to well-done experiments.”
 
-“I am really amazed by what can be done experimentally and by the power of experimentalists, but of course when you talk to them about some of these theoretical ideas they immeidaelty come up with a lot of complaints on why this is hard to do. But if they want to do something and there must be motivation behind it, they are able to do miracles”
+To be fair, some of these remarks are made in the spirit of friendly rivalry. Science has always had its tribes, and teasing across boundaries is not new. But what is striking is how often such comments are not playful at all. They are meant to diminish other people’s work.
 
-I myself have witnessed such interplay first-hand, but my dear friend and colleague Alezzi shared with me numerous success stories of theory and experiments working well together. This topic deserves an article for its own right. 
+Specialization in modern academia is unavoidable. No one can master everything. But specialization can easily harden into identity, and identity into arrogance: *my field is more important*, *my field is purer*. Even the way science is presented to the public reinforces this divide. Grand theories often receive the prestige, while the painstaking work of testing, building, refining, and engineering is treated as secondary.
 
-On the other hand, I have also unfortunately witnessed the complete opposite. Where an experiment is carried out, results were explained in full details, conclusion drawn and even the manuscript fully written, and only then, the paper is “spiced” by adding some model that agrees with it. I have heard PIs describe the situation as making the paper nicer by adding a couple of “decorative equations”, a mentality some experimentalist have. For such PIs, thats what collaborations are, papers that shows significant experimental results are made “nicer” by adding some theoretical formalism that agrees with it, and papers with mostly theoretical results are made more “realistic” by adding the experimentalist’s speculations. With this type of collaborations, PIs get more publications. 
+Yet science does not actually advance along a single lane. It advances through a loop. Theory proposes structures, principles, and constraints. Experiment determines what survives contact with reality. Engineering transforms fragile concepts into reliable, controllable systems that, in turn, create new possibilities for both experiment and theory. The convergence of these three elements yields truly remarkable results.
 
-To end with a positive note, I would like to point out examples of a “different” type of collaboration, where theory, expermnit and engineering worked in harmony to achieve miracles. Below are some examples, with accompanying articles that describes them.   
+Professor Peter Zoller (pioneer of quantum computing, quantum simulation and quantum communication) described this dynamic beautifully on the *632nm* podcast episode *The Quantum Revolution*. Speaking as a theorist who has worked closely with experimentalists, he said:
 
-1- The Transistor  
-"Frequently, I have been asked if an experiment I have planned is pure or applied research; to me it is more important to know if the experiment will yield new and probably enduring knowledge about nature." William Shockley
+> “I am really amazed by what can be done experimentally and by the power of experimentalists, but of course when you talk to them about some of these theoretical ideas they immediately come up with a lot of complaints on why this is hard to do. But if they want to do something and there must be motivation behind it, they are able to do miracles.”
 
-[How the First Transistor Worked](http://spectrum.ieee.org/transistor-history)
+I have witnessed this interplay firsthand. I have also heard many examples from my friend and colleague Alezzi, who shared with me story after story of theory and experiment pushing one another forward. Those successes deserve an article of their own.
 
-2- Quantum cascade lasers 
-“a mixture of pure physics and engineering that could as easily lead to a fresh theoretical insight as to a new technology.”
+Unfortunately, I have also seen the opposite.
 
-[Quantum Cascade Lasers](https://physicstoday.aip.org/features/quantum-cascade-lasers-1760115369724)
+I have seen experiments carried out, results analyzed in detail, conclusions drawn, and even manuscripts nearly finished before theory enters the picture only as decoration. At that point, a model is added simply because it matches the data and makes the paper look more sophisticated. I have heard principal investigators describe this quite bluntly: the paper can be made “nicer” with a few decorative equations.
 
-[Federico Capasso: The Quantum Designer](https://www.harvardmagazine.com/faculty-community/thinking-small-html)
+That mentality reveals a shallow idea of collaboration. In that model, experimental papers are polished by adding theoretical formalism after the fact, while theory-heavy papers are made to seem more “realistic” by sprinkling in speculative experimental relevance. Everyone gains another publication, but the collaboration itself remains theatric. The work may look interdisciplinary on paper while lacking the intellectual exchange that makes interdisciplinary science meaningful.
 
-3- Atomic clocks
-"This work is a demonstration of precise experimental control and theoretical understanding of atomic interaction in optical lattice clocks to an unprecedented level. It is also a testimony to the power of experiment-theory collaboration." — Jun Ye 
+Still, it would be depressing to end there, because there are plenty of better examples: cases where theory, experiment, and engineering worked together and delivered.
 
-[Optical Clocks: The Future of Time](https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time)
+1. **The transistor**  
+   William Shockley captured this spirit well:
 
-4- LIGO 
-"LIGO is the triumph of a thousand people, the superb experimental team. I think my biggest contribution was to understand where they had to go because I am a theorist and I knew about how strong the waves were. I understand how they interact with the detector... There is no way I could do any of that (the engineering), but I could also convey to the funding agencies... my faith in the experimental team." — Kip Thorne
+   > “Frequently, I have been asked if an experiment I have planned is pure or applied research; to me it is more important to know if the experiment will yield new and probably enduring knowledge about nature.”
 
-[Nobel Lecture: LIGO and gravitational waves](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502?utm_source=chatgpt.com)
+   [How the First Transistor Worked](http://spectrum.ieee.org/transistor-history)
 
+2. **Quantum cascade lasers**  
+   A striking example of how fundamental physics and engineering creativity can become inseparable in practice.
 
-The problem, then, is not that theory, experiment, and technology compete. The problem is that we keep
-pretending they form a prestige ladder. They don’t. They form an ecosystem.
-A mature scientific culture would treat these roles as complementary forms of rigor, each with its own
-failure modes and its own standards of excellence. In addition, interesting progress happens at the interfaces,
-and the people who thrive there are usually the ones with enough humility to learn other’s language.
+   > “A mixture of pure physics and engineering that could as easily lead to a fresh theoretical insight as to a new technology.”
 
+   [Quantum Cascade Lasers](https://physicstoday.aip.org/features/quantum-cascade-lasers-1760115369724)  
+   [Federico Capasso: The Quantum Designer](https://www.harvardmagazine.com/faculty-community/thinking-small-html)
+
+3. **Atomic clocks**  
+   Jun Ye summarized this beautifully:
+
+   > “This work is a demonstration of precise experimental control and theoretical understanding of atomic interaction in optical lattice clocks to an unprecedented level. It is also a testimony to the power of experiment-theory collaboration.”
+
+   [Optical Clocks: The Future of Time](https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time)
+
+4. **LIGO**  
+   Reflecting on the detection of gravitational waves, Kip Thorne said:
+
+   > “LIGO is the triumph of a thousand people, the superb experimental team. I think my biggest contribution was to understand where they had to go because I am a theorist and I knew about how strong the waves were. I understand how they interact with the detector... There is no way I could do any of that (the engineering), but I could also convey to the funding agencies... my faith in the experimental team.”
+
+   [Nobel Lecture: LIGO and Gravitational Waves](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502)
+
+The real issue, then, is not that theory, experiment, and technology are in competition. The problem is our repeated insistence on arranging them into a prestige ladder. A mature scientific culture would recognize these roles as complementary forms of rigor, each with its own standards of excellence and each with its own ways of failing. The most exciting progress often happens at the interfaces. And the people who thrive there are usually not the ones most committed to defending their corner, but the ones humble enough to learn another language.
