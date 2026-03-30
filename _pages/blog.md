@@ -85,20 +85,19 @@ To end with a positive note, I would like to point out examples of a “differen
 
 1- The Transistor  
 "Frequently, I have been asked if an experiment I have planned is pure or applied research; to me it is more important to know if the experiment will yield new and probably enduring knowledge about nature." William Shockley
-[How the First Transistor Worked][http://spectrum.ieee.org/transistor-history]
+[How the First Transistor Worked](http://spectrum.ieee.org/transistor-history)
 
 2- Quantum cascade lasers: 
 “a mixture of pure physics and engineering that could as easily lead to a fresh theoretical insight as to a new technology.”
-[Quantum Cascade Lasers][https://physicstoday.aip.org/features/quantum-cascade-lasers-1760115369724]
-[Federico Capasso: The Quantum Designer][https://www.harvardmagazine.com/faculty-community/thinking-small-html]
+[Quantum Cascade Lasers][https://physicstoday.aip.org/features/quantum-cascade-lasers-1760115369724](Federico Capasso: The Quantum Designer][https://www.harvardmagazine.com/faculty-community/thinking-small-html)
 
 3- Atomic clocks
 "This work is a demonstration of precise experimental control and theoretical understanding of atomic interaction in optical lattice clocks to an unprecedented level. It is also a testimony to the power of experiment-theory collaboration." — Jun Ye 
-[Optical Clocks: The Future of Time][https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time]
+[Optical Clocks: The Future of Time](https://www.nist.gov/atomic-clocks/how-atomic-clocks-work/optical-clocks-future-time)
 
 4- LIGO 
 "LIGO is the triumph of a thousand people, the superb experimental team. I think my biggest contribution was to understand where they had to go because I am a theorist and I knew about how strong the waves were. I understand how they interact with the detector... There is no way I could do any of that [the engineering], but I could also convey to the funding agencies... my faith in the experimental team." — Kip Thorne
-[Nobel Lecture: LIGO and gravitational waves][https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502?utm_source=chatgpt.com]
+[Nobel Lecture: LIGO and gravitational waves](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502?utm_source=chatgpt.com)
 
 
 The problem, then, is not that theory, experiment, and technology compete. The problem is that we keep
