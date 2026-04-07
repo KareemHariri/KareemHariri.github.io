@@ -95,8 +95,9 @@ classes: wide
     }
   }
 </style>
+My research interests are centered on the frontier of light–matter interactions and encompass precision measurement, quantum optics, optical frequency metrology, atomic clocks, quantum-enhanced sensing, and integrated photonics. This page highlights selected directions. See also [Publications](/publications/) and [google scholar scholar](https://scholar.google.com/citations?user=vsb2i7oAAAAJ&hl=en) for a complete list of publications. 
 
-This page highlights selected directions. See also the [Publications](/publications/).
+Below, I present details of several recent projects I have undertaken.
 ## Research Areas
 <div class="gallery-row">
     <div class="gallery-text">
