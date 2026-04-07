@@ -20,7 +20,7 @@ classes: wide
     display: flex;
     gap: 10px;
     align-items: center;
-    margin: 60px 0;
+    margin: 10px 0;
   }
 
   .gallery-text {
