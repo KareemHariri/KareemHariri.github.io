@@ -18,7 +18,7 @@ classes: wide
 
   .gallery-row {
     display: flex;
-    gap: 40px;
+    gap: 10px;
     align-items: center;
     margin: 60px 0;
   }
@@ -99,7 +99,6 @@ My research interests lie at the frontier of light–matter interactions and spa
 
 Below are details of several recent projects I have worked on. 
 ## Research Areas
-
 <div class="gallery-row">
     <div class="gallery-text">
       <h2>1. Quantum-Enhanced Spectroscopy</h2>
