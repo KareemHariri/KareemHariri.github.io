@@ -166,7 +166,7 @@ Here, we introduce amplitude-squeezed light into the domain of resonant fiber op
     <div class="gallery-text">
       <h2>4. Quantum Radar</h2>
       <p>
-        <em>a. In review - Quantum-Enhanced Integrated Sensing and Communication </em><br>
+         <em><a href="https://ieeexplore.ieee.org/document/11477857/keywords#keywords">a. IEEE Transactions on Communications 2026.3681651  (2026) </a>- Quantum-Enhanced Integrated Sensing and Communication </em><br>
         <div style="height:1.5px;"></div>
        Integrated sensing and communication (ISAC) is emerging as a key enabler for spectrum-efficient and hardwareconverged
 wireless networks. However, classical radar systems within ISAC architectures face fundamental limitations under low signal power and high-noise conditions. This work proposes a novel framework that embeds quantum illumination radar into a base station to simultaneously support full-duplex classical communication and quantum-enhanced target detection. The resulting integrated quantum sensing and classical communication (IQSCC) system is optimized via a sum-rate maximization formulation subject to radar sensing constraints. Furthermore, we derive performance bounds for classical and quantum radar protocols under the statistical detection theory, highlighting the quantum advantage in low signal-to-interferenceplus-noise ratio regimes. Simulation results demonstrate that the proposed IQSCC system achieves a higher communication throughput than the conventional ISAC baseline while satisfying the sensing requirement.
