@@ -102,6 +102,20 @@ classes: wide
   }
 </style>
 
+ <div class="gallery-wrap">
+
+  <h2 class="gallery-center" style="margin-bottom: 1rem;">
+   SPIE: The Fiber Optic Gyro 50th Anniversary Conference (2026)
+  </h2>
+  <div style="display: flex; justify-content: center;">
+  </div>
+   <img src="/images/50gyro.png"
+         alt="50gyro"
+         class="what"
+         onclick="openLightbox(this.src)">
+
+  <p class="gallery-center" style="max-width:760px; margin:1.5rem auto 3rem auto;">
+
   <div class="gallery-wrap">
 
   <h2 class="gallery-center" style="margin-bottom: 1rem;">
