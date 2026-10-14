@@ -117,6 +117,22 @@ Below are details of several recent projects I have worked on.
    <hr style="margin:4px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
+      <h2>1. Quantum-Enhanced Spectroscopy</h2>
+      <p>
+      <em><a href="https://journals.aps.org/prx/abstract/10.1103/plh2-cr8s">Physical Review X 15, 041009 (2025)</a> - Quantum Frequency Combs for Sensing</em><br>
+        <div style="height:1.5px;"></div>
+       Optical frequency combs have emerged as a cornerstone for a wide range of areas, including spectroscopy, ranging, optical clocks, time and frequency transfer, waveform synthesis, and communications. However, quantum-mechanical fluctuations of the optical carrier impose fundamental performance limits on the precision of classical optical frequency combs, particularly in their use for interferometry and spectroscopy. Entanglement, as a quintessential quantum resource, allows for surpassing the fundamental limits of classical systems. Here, we introduce entanglement into the realm of optical frequency combs, formulating entangled dual-comb spectroscopy (EDCS) that surmounts the fundamental limits of classical DCS. EDCS capitalizes on tailored entangled structures across the frequency comb, enabling simultaneous detection of all comb lines below the standard quantum limit of classical DCS. Applying EDCS in gas detection, we achieve a 2.6-dB enhancement in signal-to-noise ratio and a 1.7-fold reduction in integration time over classical DCS, rendering EDCS particularly suited for dynamic chemical and biological sensing, where fast, precise measurements subject to power constraints are required. EDCS opens a new avenue for exploiting quantum frequency combs, underscoring their prospects in a plethora of applications in precision metrology, spectroscopy, and timekeeping.
+      </p>
+    </div>
+
+    <img src="/images/EntDual.png"
+         alt="EntDual"
+         class="gallery-thumb medium"
+         onclick="openLightbox(this.src)">
+  </div>
+   <hr style="margin:4px 0;">
+  <div class="gallery-row">
+    <div class="gallery-text">
       <h2>2. On-Chip Quantum Light Sources</h2>
       <p>
         <em><a href="https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-5/issue-02/026019/Squeezed-light-generation-in-thin-film-silicon-nitride-photonic-integrated/10.1117/1.APN.5.2.026019.full">a. Advanced Photonics Nexus (2026)</a> - Foundry-Compatible Squeezed Light Sources </em><br>
