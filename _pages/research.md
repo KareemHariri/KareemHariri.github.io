@@ -103,7 +103,7 @@ Below are details of several recent projects I have worked on.
     <div class="gallery-text">
       <h2>1. Quantum Atomic Clock</h2>
       <p>
-        <div style="height:1.5px;"></div>
+        <div style="height:2.0px;"></div>
        Optical atomic clocks are the most precise measurement devices ever built, underpinning applications in navigation, communication, geodesy, and fundamental physics. However, the precision of conventional clocks, which operate with independent atoms, is fundamentally limited by quantum projection noise. Spin squeezing, which introduces quantum correlations between atoms, can surpass this standard quantum limit, yet the more strongly the atoms are squeezed, the narrower the range of phases over which they remain sensitive, and noise in the clock laser readily drives them outside this range. As a result, squeezing has yet to improve an operating optical clock beyond its best classical performance. In this work, we develop a hybrid dual-ensemble optical clock in which two atomic ensembles are held inside the same optical cavity and probed by the same clock laser. A conventional ensemble, robust to laser noise, first estimates the laser phase; this estimate is then fed forward to steer a spin-squeezed ensemble back to its point of maximum sensitivity, retaining the quantum advantage of squeezing in the presence of laser noise. This approach opens a path toward optical clocks whose performance exceeds the best achievable classically with the same resources, with prospects for GNSS-independent timing and quantum-enhanced sensing.
       </p>
     </div>
