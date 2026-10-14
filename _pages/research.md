@@ -101,7 +101,22 @@ Below are details of several recent projects I have worked on.
 ## Research Areas
 <div class="gallery-row">
     <div class="gallery-text">
-      <h2>1. Quantum-Enhanced Spectroscopy</h2>
+      <h2>1. Quantum Atomic Clock</h2>
+      <p>
+        <div style="height:1.5px;"></div>
+       Optical atomic clocks are the most precise measurement devices ever built, underpinning applications in navigation, communication, geodesy, and fundamental physics. However, the precision of conventional clocks, which operate with independent atoms, is fundamentally limited by quantum projection noise. Spin squeezing, which introduces quantum correlations between atoms, can surpass this standard quantum limit, but strongly squeezed states remain sensitive only over a narrow phase range, so in realistic clocks much of their advantage is lost to noise in the clock laser. In this work, we develop a hybrid dual-ensemble optical clock in which two atomic ensembles are held inside the same optical cavity and probed by the same clock laser. A conventional ensemble, robust to laser noise, first estimates the laser phase; this estimate is then fed forward to steer a spin-squeezed ensemble back to its point of maximum sensitivity, retaining the quantum advantage of squeezing in the presence of laser noise. This approach opens a path toward optical clocks whose performance exceeds the best achievable classically with the same resources, with prospects for GNSS-independent timing and quantum-enhanced sensing.
+      </p>
+    </div>
+
+    <img src="/images/SQZclock.png"
+         alt="SQZclock"
+         class="gallery-thumb medium"
+         onclick="openLightbox(this.src)">
+  </div>
+   <hr style="margin:4px 0;">
+  <div class="gallery-row">
+    <div class="gallery-text">
+      <h2>2. Quantum-Enhanced Spectroscopy</h2>
       <p>
       <em><a href="https://journals.aps.org/prx/abstract/10.1103/plh2-cr8s">Physical Review X 15, 041009 (2025)</a> - Quantum Frequency Combs for Sensing</em><br>
         <div style="height:1.5px;"></div>
@@ -117,23 +132,7 @@ Below are details of several recent projects I have worked on.
    <hr style="margin:4px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
-      <h2>1. Quantum-Enhanced Spectroscopy</h2>
-      <p>
-      <em><a href="https://journals.aps.org/prx/abstract/10.1103/plh2-cr8s">Physical Review X 15, 041009 (2025)</a> - Quantum Frequency Combs for Sensing</em><br>
-        <div style="height:1.5px;"></div>
-       Optical frequency combs have emerged as a cornerstone for a wide range of areas, including spectroscopy, ranging, optical clocks, time and frequency transfer, waveform synthesis, and communications. However, quantum-mechanical fluctuations of the optical carrier impose fundamental performance limits on the precision of classical optical frequency combs, particularly in their use for interferometry and spectroscopy. Entanglement, as a quintessential quantum resource, allows for surpassing the fundamental limits of classical systems. Here, we introduce entanglement into the realm of optical frequency combs, formulating entangled dual-comb spectroscopy (EDCS) that surmounts the fundamental limits of classical DCS. EDCS capitalizes on tailored entangled structures across the frequency comb, enabling simultaneous detection of all comb lines below the standard quantum limit of classical DCS. Applying EDCS in gas detection, we achieve a 2.6-dB enhancement in signal-to-noise ratio and a 1.7-fold reduction in integration time over classical DCS, rendering EDCS particularly suited for dynamic chemical and biological sensing, where fast, precise measurements subject to power constraints are required. EDCS opens a new avenue for exploiting quantum frequency combs, underscoring their prospects in a plethora of applications in precision metrology, spectroscopy, and timekeeping.
-      </p>
-    </div>
-
-    <img src="/images/EntDual.png"
-         alt="EntDual"
-         class="gallery-thumb medium"
-         onclick="openLightbox(this.src)">
-  </div>
-   <hr style="margin:4px 0;">
-  <div class="gallery-row">
-    <div class="gallery-text">
-      <h2>2. On-Chip Quantum Light Sources</h2>
+      <h2>3. On-Chip Quantum Light Sources</h2>
       <p>
         <em><a href="https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-5/issue-02/026019/Squeezed-light-generation-in-thin-film-silicon-nitride-photonic-integrated/10.1117/1.APN.5.2.026019.full">a. Advanced Photonics Nexus (2026)</a> - Foundry-Compatible Squeezed Light Sources </em><br>
         <div style="height:1.5px;"></div>
@@ -163,7 +162,7 @@ Below are details of several recent projects I have worked on.
   <hr style="margin:4px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
-      <h2>3. Quantum Optical Gyroscope</h2>
+      <h2>4. Quantum Optical Gyroscope</h2>
       <p>
            <em><a href="https://deepblue.lib.umich.edu/items/34bee350-e11d-4887-a0b2-1c46bb100bb6"> University of Michigan Library (2026) </a>- Quantum-Enhanced Metrology with Engineered Squeezed Light: From Spectroscopy to Inertial Sensing </em><br>
         <div style="height:1.5px;"></div>
@@ -180,7 +179,7 @@ Here, we introduce amplitude-squeezed light into the domain of resonant fiber op
   <hr style="margin:4px 0;">
   <div class="gallery-row">
     <div class="gallery-text">
-      <h2>4. Quantum Radar</h2>
+      <h2>5. Quantum Radar</h2>
       <p>
          <em><a href="https://ieeexplore.ieee.org/document/11477857/keywords#keywords">a. IEEE Trans. Commun 3681651 (2026) </a>- Quantum Integrated Sensing and Communication </em><br>
         <div style="height:1.5px;"></div>
@@ -211,7 +210,7 @@ wireless networks. However, classical radar systems within ISAC architectures fa
   <hr style="margin:4px 0;">
 <div class="gallery-row">
     <div class="gallery-text">
-      <h2>5. Quantum Measurement of Signal Amplitude and Phase</h2>
+      <h2>6. Quantum Measurement of Signal Amplitude and Phase</h2>
       <p>
         <em><a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.032119">Physical Review A 100, 032119  (2019) </a> - Schemes for measuring quantum systems </em><br>
         <div style="height:1.5px;"></div>
@@ -237,9 +236,6 @@ this suggests that the full complex weak value is a characteristic of each photo
          onclick="openLightbox(this.src)">
   </div>
   <hr style="margin:4px 0;">
-
-## 6. Quantum Atomic Clock
-<em>Ongoing Project</em><br>
 
 
 
